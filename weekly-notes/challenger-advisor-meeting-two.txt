@@ -1,0 +1,13 @@
+Swytch is a startup, has limited budget, and are trying to build a deterministic model to help people land a job.
+
+There are a lot of other companies that work in this space, and they're trying to place themselves ahead of the crowd by utilizing data mining to constantly update their model
+They want to help people apply to jobs that they wouldn't have thought they would be qualified for based off of their skillsets
+
+Extra's
+- Data will be a commodity, especially data that has not been modified by AI
+- Add more detail to the dataset that you're working on
+- Datasets just evolve over time
+- Lightcast is their biggest competitor in this space
+- Over her career she has been modeling human behavior
+    - Makes me think that she studied psychology or an adjacent field in college
+- Head of Technology at Swytch
