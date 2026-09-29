@@ -1,0 +1,50 @@
+table,column,description,source,units,dtype
+ai_risk_v0,soc,SOC 2018 detailed occupation code,BLS SOC 2018,code,str
+ai_risk_v0,title,"SOC 2018 occupation title (BLS crosswalk, split/merge markers removed)",BLS crosswalk,text,str
+ai_risk_v0,major_group,First two digits of the SOC code,derived,code,str
+ai_risk_v0,major_group_name,SOC major group name,derived,text,str
+ai_risk_v0,dv_rating_alpha,"Eloundou alpha (E1), GPT-4 rater: share of tasks directly exposed to LLMs","Eloundou et al. (occ_level.csv), averaged over O*NET children",share 0-1,float64
+ai_risk_v0,dv_rating_beta,"Eloundou beta (E1 + 0.5 E2), GPT-4 rater: headline exposure measure",Eloundou et al.,share 0-1,float64
+ai_risk_v0,dv_rating_gamma,"Eloundou gamma (E1 + E2), GPT-4 rater: exposure including LLM-powered tools",Eloundou et al.,share 0-1,float64
+ai_risk_v0,human_rating_alpha,"Eloundou alpha, human raters",Eloundou et al.,share 0-1,float64
+ai_risk_v0,human_rating_beta,"Eloundou beta, human raters",Eloundou et al.,share 0-1,float64
+ai_risk_v0,human_rating_gamma,"Eloundou gamma, human raters",Eloundou et al.,share 0-1,float64
+ai_risk_v0,AIOE,AI Occupational Exposure; mean of 2010 parents where SOC codes merged,"Felten, Raj & Seamans (AIOE_DataAppendix.xlsx, Appendix A)",z-score,float64
+ai_risk_v0,frey_osborne_probability,Probability of computerisation; mean of 2010 parents where SOC codes merged,Frey & Osborne (2013) appendix,probability 0-1,float64
+ai_risk_v0,pct_eloundou_beta,Percentile rank of Eloundou beta (GPT-4) among the 693 v0 occupations (higher = more exposed / at risk),task7_percentile_ranks.ipynb,percentile 0-100,float64
+ai_risk_v0,pct_eloundou_beta_human,Percentile rank of Eloundou beta (human) among the 693 v0 occupations (higher = more exposed / at risk),task7_percentile_ranks.ipynb,percentile 0-100,float64
+ai_risk_v0,pct_aioe,Percentile rank of AIOE among the 693 v0 occupations (higher = more exposed / at risk),task7_percentile_ranks.ipynb,percentile 0-100,float64
+ai_risk_v0,pct_frey_osborne,Percentile rank of Frey-Osborne probability among the 693 v0 occupations (higher = more exposed / at risk),task7_percentile_ranks.ipynb,percentile 0-100,float64
+ai_risk_v0,pct_full_eloundou_beta,Percentile rank of Eloundou beta (GPT-4) among all occupations that index scores,task7_percentile_ranks.ipynb,percentile 0-100,float64
+ai_risk_v0,pct_full_eloundou_beta_human,Percentile rank of Eloundou beta (human) among all occupations that index scores,task7_percentile_ranks.ipynb,percentile 0-100,float64
+ai_risk_v0,pct_full_aioe,Percentile rank of AIOE among all occupations that index scores,task7_percentile_ranks.ipynb,percentile 0-100,float64
+ai_risk_v0,pct_full_frey_osborne,Percentile rank of Frey-Osborne probability among all occupations that index scores,task7_percentile_ranks.ipynb,percentile 0-100,float64
+ai_risk_v0,pct_spread,"Max minus min of pct_eloundou_beta, pct_aioe, pct_frey_osborne: cross-index disagreement",task7_percentile_ranks.ipynb,percentile points,float64
+ai_risk_v0,eloundou_n_onet_children,Number of O*NET occupations averaged into this SOC code,Milestone 1 Task 2,count,float64
+ai_risk_v0,eloundou_onet_codes,The O*NET-SOC codes averaged (;-separated),Milestone 1 Task 2,codes,str
+ai_risk_v0,aioe_n_2010_parents,Number of SOC 2010 codes mapped to this code for AIOE,Milestone 1 Task 3a,count,float64
+ai_risk_v0,aioe_parent_soc2010_codes,SOC 2010 codes mapped to this code for AIOE (;-separated),Milestone 1 Task 3a,codes,str
+ai_risk_v0,aioe_is_split,AIOE score copied from a 2010 code that split into several 2018 codes,Milestone 1 Task 3a,bool,bool
+ai_risk_v0,aioe_is_merge,AIOE score averaged over several 2010 codes that merged,Milestone 1 Task 3a,bool,bool
+ai_risk_v0,fo_n_2010_parents,Number of SOC 2010 codes mapped to this code for Frey-Osborne,Milestone 1 Task 3b,count,float64
+ai_risk_v0,fo_parent_soc2010_codes,SOC 2010 codes mapped to this code for Frey-Osborne (;-separated),Milestone 1 Task 3b,codes,str
+ai_risk_v0,fo_is_split,Frey-Osborne score copied from a 2010 code that split,Milestone 1 Task 3b,bool,bool
+ai_risk_v0,fo_is_merge,Frey-Osborne score averaged over 2010 codes that merged,Milestone 1 Task 3b,bool,bool
+ai_risk_v0,any_provenance_flag,True if any score was averaged or copied (see the flags above),derived,bool,bool
+ai_risk_v0_all_occupations,soc,SOC 2018 detailed occupation code,BLS SOC 2018,code,str
+ai_risk_v0_all_occupations,title,"SOC 2018 occupation title (BLS crosswalk, split/merge markers removed)",BLS crosswalk,text,str
+ai_risk_v0_all_occupations,major_group,First two digits of the SOC code,derived,code,str
+ai_risk_v0_all_occupations,dv_rating_alpha,"Eloundou alpha (E1), GPT-4 rater: share of tasks directly exposed to LLMs","Eloundou et al. (occ_level.csv), averaged over O*NET children",share 0-1,float64
+ai_risk_v0_all_occupations,dv_rating_beta,"Eloundou beta (E1 + 0.5 E2), GPT-4 rater: headline exposure measure",Eloundou et al.,share 0-1,float64
+ai_risk_v0_all_occupations,dv_rating_gamma,"Eloundou gamma (E1 + E2), GPT-4 rater: exposure including LLM-powered tools",Eloundou et al.,share 0-1,float64
+ai_risk_v0_all_occupations,human_rating_alpha,"Eloundou alpha, human raters",Eloundou et al.,share 0-1,float64
+ai_risk_v0_all_occupations,human_rating_beta,"Eloundou beta, human raters",Eloundou et al.,share 0-1,float64
+ai_risk_v0_all_occupations,human_rating_gamma,"Eloundou gamma, human raters",Eloundou et al.,share 0-1,float64
+ai_risk_v0_all_occupations,AIOE,AI Occupational Exposure; mean of 2010 parents where SOC codes merged,"Felten, Raj & Seamans (AIOE_DataAppendix.xlsx, Appendix A)",z-score,float64
+ai_risk_v0_all_occupations,frey_osborne_probability,Probability of computerisation; mean of 2010 parents where SOC codes merged,Frey & Osborne (2013) appendix,probability 0-1,float64
+ai_risk_v0_all_occupations,has_eloundou,Occupation has an Eloundou score,derived,bool,bool
+ai_risk_v0_all_occupations,has_aioe,Occupation has an AIOE score,derived,bool,bool
+ai_risk_v0_all_occupations,has_frey_osborne,Occupation has a Frey-Osborne score,derived,bool,bool
+ai_risk_v0_all_occupations,n_sources,Number of indices scoring the occupation,derived,count 1-3,int64
+ai_risk_v0_all_occupations,in_v0,Occupation is in ai_risk_v0.csv (scored by all three),derived,bool,bool
+ai_risk_v0_all_occupations,reason,Why the occupation is not in v0 (or 'in_v0'),coverage_report_v0.csv,text,str

@@ -1,0 +1,18 @@
+rank,probability,training_label,soc2010,title_2010,title_2010_cw,soc2018,title_2018,_merge,reason
+15,0.0042,0,29-1060,PhysiciansandSurgeons,,,,left_only,no_crosswalk_match
+46,0.009,0,29-1111,RegisteredNurses,,,,left_only,no_crosswalk_match
+48,0.0095,,25-3999,"TeachersandInstructors,AllOther",,,,left_only,no_crosswalk_match
+112,0.032,,25-1000,PostsecondaryTeachers,,,,left_only,no_crosswalk_match
+142,0.055,0,29-9799,"HealthcarePractitionersandTechnicalWorkers,AllOther",,,,left_only,no_crosswalk_match
+207,0.2,,39-4831,"FuneralServiceManagers,Directors,Morticians,andUndertakers",,,,left_only,no_crosswalk_match
+208,0.21,,15-1179,"Information Security Analysts, Web Developers, and Computer Net-",,,,left_only,no_crosswalk_match
+212,0.22,,15-1799,"ComputerOccupations,AllOther",,,,left_only,no_crosswalk_match
+218,0.23,,29-2037,RadiologicTechnologistsandTechnicians,,,,left_only,no_crosswalk_match
+242,0.31,,13-1078,"HumanResources,Training,andLaborRelationsSpecialists,AllOther",,,,left_only,no_crosswalk_match
+273,0.4,,29-2799,"HealthTechnologistsandTechnicians,AllOther",,,,left_only,no_crosswalk_match
+300,0.5,,49-9799,"Installation,Maintenance,andRepairWorkers,AllOther",,,,left_only,no_crosswalk_match
+348,0.63,,31-9799,"HealthcareSupportWorkers,AllOther",,,,left_only,no_crosswalk_match
+359,0.65,,15-1150,ComputerSupportSpecialists,,,,left_only,no_crosswalk_match
+390,0.71,,47-4799,"ConstructionandRelatedWorkers,AllOther",,,,left_only,no_crosswalk_match
+501,0.87,,45-2090,MiscellaneousAgriculturalWorkers,,,,left_only,no_crosswalk_match
+572,0.92,,51-9399,"ProductionWorkers,AllOther",,,,left_only,no_crosswalk_match
