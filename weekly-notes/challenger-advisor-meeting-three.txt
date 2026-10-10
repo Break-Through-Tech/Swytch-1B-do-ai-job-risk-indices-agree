@@ -1,0 +1,19 @@
+build a new crosswalk thats an additional translation that had a human transformation, we could transform those codes in some way
+
+data mining, more feature engineering, adding a census/summary/avg about a data point to feel more confident
+
+several claude projects
+- transformed
+- untransformed, doesn't matter as much
+
+can leave untransformed, interested in seeing how it would change, not necessary to make model work better
+
+
+try the kindle and see, if it changes the coorelations
+
+frey Osborne may end up a bit different
+
+o*net should help alot
+
+
+lots of graphs in next meeting
