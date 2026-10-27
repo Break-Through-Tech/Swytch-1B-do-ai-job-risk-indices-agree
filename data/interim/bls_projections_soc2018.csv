@@ -1,0 +1,868 @@
+soc,bls_code,bls_match,bls_title,bls_emp_2025,bls_emp_2035,bls_emp_change,bls_emp_change_pct,bls_self_employed_pct,bls_openings_per_year,bls_median_wage,bls_education,bls_experience,bls_training
+11-1011,11-1011,direct,Chief executives,291.6,300.9,9.3,3.2,26.6,19.1,213990.0,Bachelor's degree,5 years or more,None
+11-1021,11-1021,direct,General and operations managers,3599.0,3780.3,181.3,5.0,0.8,285.0,105770.0,Bachelor's degree,5 years or more,None
+11-1031,,not in BLS,,,,,,,,,,,
+11-2011,11-2011,direct,Advertising and promotions managers,33.2,31.9,-1.2,-3.7,35.1,2.3,133660.0,Bachelor's degree,Less than 5 years,None
+11-2021,11-2021,direct,Marketing managers,421.6,450.8,29.1,6.9,5.3,34.0,166790.0,Bachelor's degree,5 years or more,None
+11-2022,11-2022,direct,Sales managers,650.1,679.1,29.0,4.5,0.8,47.3,148270.0,Bachelor's degree,Less than 5 years,None
+11-2032,11-2032,direct,Public relations managers,80.8,85.4,4.6,5.7,0.4,6.1,146910.0,Bachelor's degree,5 years or more,None
+11-2033,11-2033,direct,Fundraising managers,48.8,51.4,2.6,5.4,0.3,3.7,125470.0,Bachelor's degree,5 years or more,None
+11-3012,11-3012,direct,Administrative services managers,279.0,293.3,14.4,5.2,1.0,22.0,114130.0,Bachelor's degree,Less than 5 years,None
+11-3013,11-3013,direct,Facilities managers,165.9,173.5,7.6,4.6,0.4,14.2,106660.0,Bachelor's degree,Less than 5 years,None
+11-3021,11-3021,direct,Computer and information systems managers,685.8,793.9,108.1,15.8,0.7,53.5,175140.0,Bachelor's degree,5 years or more,None
+11-3031,11-3031,direct,Financial managers,879.7,964.6,84.9,9.7,1.4,65.6,166570.0,Bachelor's degree,5 years or more,None
+11-3051,11-3051,direct,Industrial production managers,252.1,258.6,6.5,2.6,2.4,17.0,126060.0,Bachelor's degree,5 years or more,None
+11-3061,11-3061,direct,Purchasing managers,88.3,91.8,3.5,4.0,3.5,6.4,148080.0,Bachelor's degree,5 years or more,None
+11-3071,11-3071,direct,"Transportation, storage, and distribution managers",228.1,242.1,14.0,6.1,3.6,18.3,107230.0,High school diploma or equivalent,5 years or more,None
+11-3111,11-3111,direct,Compensation and benefits managers,23.7,24.0,0.3,1.1,,1.6,149230.0,Bachelor's degree,5 years or more,None
+11-3121,11-3121,direct,Human resources managers,224.9,237.4,12.5,5.5,0.2,16.8,149280.0,Bachelor's degree,5 years or more,None
+11-3131,11-3131,direct,Training and development managers,50.2,53.5,3.2,6.4,0.4,4.1,133000.0,Bachelor's degree,5 years or more,None
+11-9013,11-9013,direct,"Farmers, ranchers, and other agricultural managers",788.7,762.2,-26.5,-3.4,66.9,70.8,89900.0,High school diploma or equivalent,5 years or more,None
+11-9021,11-9021,direct,Construction managers,609.1,664.3,55.2,9.1,37.6,49.7,114990.0,Bachelor's degree,None,Moderate-term on-the-job training
+11-9031,11-9031,direct,"Education and childcare administrators, preschool and daycare",91.9,89.0,-2.9,-3.1,5.8,5.2,59300.0,Bachelor's degree,Less than 5 years,None
+11-9032,11-9032,direct,"Education administrators, kindergarten through secondary",343.8,342.7,-1.2,-0.3,1.4,20.6,105870.0,Master's degree,5 years or more,None
+11-9033,11-9033,direct,"Education administrators, postsecondary",231.8,235.9,4.1,1.8,2.5,14.5,104590.0,Master's degree,Less than 5 years,None
+11-9039,11-9039,direct,"Education administrators, all other",62.0,63.0,1.0,1.6,4.3,3.9,95200.0,Bachelor's degree,Less than 5 years,None
+11-9041,11-9041,direct,Architectural and engineering managers,220.9,233.1,12.2,5.5,0.2,14.9,171270.0,Bachelor's degree,5 years or more,None
+11-9051,11-9051,direct,Food service managers,344.3,364.2,19.9,5.8,30.6,38.8,69390.0,High school diploma or equivalent,Less than 5 years,Short-term on-the-job training
+11-9071,11-9071,direct,Gambling managers,5.6,5.8,0.2,3.6,7.7,0.6,93220.0,High school diploma or equivalent,Less than 5 years,None
+11-9072,11-9072,direct,"Entertainment and recreation managers, except gambling",43.9,46.5,2.7,6.0,8.4,5.1,79520.0,Bachelor's degree,Less than 5 years,None
+11-9081,11-9081,direct,Lodging managers,54.8,56.9,2.1,3.8,20.7,5.5,69250.0,High school diploma or equivalent,Less than 5 years,None
+11-9111,11-9111,direct,Medical and health services managers,640.4,795.5,155.1,24.2,4.5,62.3,123860.0,Bachelor's degree,Less than 5 years,None
+11-9121,11-9121,direct,Natural sciences managers,112.2,121.5,9.2,8.2,,9.2,167220.0,Bachelor's degree,5 years or more,None
+11-9131,11-9131,direct,Postmasters and mail superintendents,13.3,13.2,0.0,-0.3,,0.9,96660.0,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+11-9141,11-9141,direct,"Property, real estate, and community association managers",460.4,477.6,17.1,3.7,31.3,36.9,69990.0,High school diploma or equivalent,Less than 5 years,Short-term on-the-job training
+11-9151,11-9151,direct,Social and community service managers,231.0,247.7,16.6,7.2,4.8,18.5,80390.0,Bachelor's degree,Less than 5 years,None
+11-9161,11-9161,direct,Emergency management directors,14.0,14.5,0.5,3.9,,1.1,93330.0,Bachelor's degree,5 years or more,None
+11-9171,11-9171,direct,Funeral home managers,34.8,36.2,1.4,4.1,58.1,2.6,78790.0,Associate's degree,Less than 5 years,None
+11-9179,11-9179,direct,"Personal service managers, all other",25.5,27.1,1.6,6.2,56.2,2.0,69770.0,High school diploma or equivalent,Less than 5 years,None
+11-9199,11-9199,direct,"Managers, all other",1338.8,1404.4,65.6,4.9,50.4,100.9,141900.0,Bachelor's degree,Less than 5 years,None
+13-1011,13-1011,direct,"Agents and business managers of artists, performers, and athletes",26.9,29.5,2.6,9.7,45.4,2.4,82890.0,Bachelor's degree,Less than 5 years,None
+13-1021,13-1020,via combined code,Buyers and purchasing agents,516.1,547.0,30.8,6.0,3.4,47.2,77710.0,Bachelor's degree,None,Moderate-term on-the-job training
+13-1022,13-1020,via combined code,Buyers and purchasing agents,516.1,547.0,30.8,6.0,3.4,47.2,77710.0,Bachelor's degree,None,Moderate-term on-the-job training
+13-1023,13-1020,via combined code,Buyers and purchasing agents,516.1,547.0,30.8,6.0,3.4,47.2,77710.0,Bachelor's degree,None,Moderate-term on-the-job training
+13-1031,13-1031,direct,"Claims adjusters, examiners, and investigators",376.1,355.5,-20.6,-5.5,1.6,20.9,78000.0,High school diploma or equivalent,None,Long-term on-the-job training
+13-1032,13-1032,direct,"Insurance appraisers, auto damage",13.5,12.4,-1.2,-8.7,2.0,0.7,78240.0,Postsecondary nondegree award,None,Moderate-term on-the-job training
+13-1041,13-1041,direct,Compliance officers,436.4,453.1,16.7,3.8,0.7,32.7,80730.0,Bachelor's degree,None,Moderate-term on-the-job training
+13-1051,13-1051,direct,Cost estimators,226.4,219.5,-6.9,-3.1,1.3,17.6,78740.0,Bachelor's degree,None,Moderate-term on-the-job training
+13-1071,13-1071,direct,Human resources specialists,939.7,999.7,60.1,6.4,1.1,73.7,75940.0,Bachelor's degree,None,None
+13-1074,13-1074,direct,Farm labor contractors,1.9,2.0,0.1,7.4,,0.1,58460.0,No formal educational credential,Less than 5 years,Short-term on-the-job training
+13-1075,13-1075,direct,Labor relations specialists,66.3,67.7,1.4,2.1,1.2,4.8,95420.0,Bachelor's degree,Less than 5 years,None
+13-1081,13-1081,direct,Logisticians,255.1,300.0,44.9,17.6,1.2,26.6,82320.0,Bachelor's degree,None,None
+13-1082,13-1082,direct,Project management specialists,1094.3,1167.4,73.2,6.7,1.2,76.5,102320.0,Bachelor's degree,None,None
+13-1111,13-1111,direct,Management analysts,1077.1,1186.3,109.2,10.1,14.0,94.1,101860.0,Bachelor's degree,Less than 5 years,None
+13-1121,13-1121,direct,"Meeting, convention, and event planners",172.1,182.1,10.0,5.8,10.1,16.8,61160.0,Bachelor's degree,None,None
+13-1131,13-1131,direct,Fundraisers,140.9,148.7,7.8,5.5,0.5,10.0,72550.0,Bachelor's degree,None,None
+13-1141,13-1141,direct,"Compensation, benefits, and job analysis specialists",118.1,125.2,7.1,6.0,,9.0,78210.0,Bachelor's degree,Less than 5 years,None
+13-1151,13-1151,direct,Training and development specialists,472.5,523.7,51.1,10.8,0.6,46.0,69280.0,Bachelor's degree,Less than 5 years,None
+13-1161,13-1161,direct,Market research analysts and marketing specialists,952.7,1019.0,66.3,7.0,3.8,82.0,78760.0,Bachelor's degree,None,None
+13-1199,13-1199,direct,"Business operations specialists, all other",1157.6,1202.3,44.7,3.9,1.9,98.7,83050.0,Bachelor's degree,None,None
+13-2011,13-2011,direct,Accountants and auditors,1595.2,1674.6,79.4,5.0,5.5,115.3,83680.0,Bachelor's degree,None,None
+13-2022,13-2020,via combined code,Property appraisers and assessors,68.4,70.7,2.4,3.5,14.6,5.2,67960.0,Bachelor's degree,None,Long-term on-the-job training
+13-2023,13-2020,via combined code,Property appraisers and assessors,68.4,70.7,2.4,3.5,14.6,5.2,67960.0,Bachelor's degree,None,Long-term on-the-job training
+13-2031,13-2031,direct,Budget analysts,50.4,51.3,1.0,1.9,0.8,2.9,91640.0,Bachelor's degree,None,None
+13-2041,13-2041,direct,Credit analysts,64.7,61.9,-2.8,-4.3,,3.1,83510.0,Bachelor's degree,None,None
+13-2051,13-2051,direct,Financial and investment analysts,377.2,404.3,27.1,7.2,2.2,24.7,102740.0,Bachelor's degree,None,None
+13-2052,13-2052,direct,Personal financial advisors,299.4,303.5,4.1,1.4,9.7,17.1,105070.0,Bachelor's degree,None,Long-term on-the-job training
+13-2053,13-2053,direct,Insurance underwriters,125.6,120.8,-4.8,-3.8,0.4,6.8,81370.0,Bachelor's degree,None,Moderate-term on-the-job training
+13-2054,13-2054,direct,Financial risk specialists,66.0,70.8,4.9,7.4,0.5,4.8,117330.0,Bachelor's degree,None,None
+13-2061,13-2061,direct,Financial examiners,70.0,76.5,6.5,9.3,,4.5,94160.0,Bachelor's degree,None,Long-term on-the-job training
+13-2071,13-2071,direct,Credit counselors,31.2,32.3,1.0,3.3,0.9,2.0,52230.0,Bachelor's degree,None,Moderate-term on-the-job training
+13-2072,13-2072,direct,Loan officers,283.0,286.0,3.1,1.1,1.4,17.1,76690.0,Bachelor's degree,Less than 5 years,Moderate-term on-the-job training
+13-2081,13-2081,direct,"Tax examiners and collectors, and revenue agents",60.1,59.5,-0.6,-1.0,,4.4,62370.0,Bachelor's degree,None,Moderate-term on-the-job training
+13-2082,13-2082,direct,Tax preparers,95.8,100.3,4.5,4.7,17.6,9.4,54920.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+13-2099,13-2099,direct,"Financial specialists, all other",137.8,143.4,5.6,4.1,0.4,9.4,81100.0,Bachelor's degree,None,None
+15-1211,15-1211,direct,Computer systems analysts,544.4,587.2,42.9,7.9,2.6,32.9,105850.0,Bachelor's degree,None,None
+15-1212,15-1212,direct,Information security analysts,192.9,233.4,40.6,21.0,0.2,14.1,129180.0,Bachelor's degree,Less than 5 years,None
+15-1221,15-1221,direct,Computer and information research scientists,38.6,47.0,8.4,21.8,,2.9,140300.0,Master's degree,None,None
+15-1231,15-1231,direct,Computer network support specialists,152.5,154.4,1.9,1.2,2.5,9.0,76220.0,Associate's degree,None,Moderate-term on-the-job training
+15-1232,15-1232,direct,Computer user support specialists,750.6,724.4,-26.2,-3.5,2.5,39.7,61860.0,"Some college, no degree",None,Moderate-term on-the-job training
+15-1241,15-1241,direct,Computer network architects,181.8,195.8,14.1,7.7,0.4,9.6,134050.0,Bachelor's degree,5 years or more,None
+15-1242,15-1242,direct,Database administrators,75.0,74.9,-0.1,-0.1,1.8,3.3,104620.0,Bachelor's degree,None,None
+15-1243,15-1243,direct,Database architects,69.5,76.0,6.5,9.4,2.1,3.9,139500.0,Bachelor's degree,Less than 5 years,None
+15-1244,15-1244,direct,Network and computer systems administrators,323.6,310.4,-13.2,-4.1,0.2,13.4,99130.0,Bachelor's degree,None,None
+15-1251,15-1251,direct,Computer programmers,110.8,102.7,-8.1,-7.3,14.6,4.4,100390.0,Bachelor's degree,None,None
+15-1252,15-1252,direct,Software developers,1717.8,1892.6,174.7,10.2,1.5,95.3,135980.0,Bachelor's degree,None,None
+15-1253,15-1253,direct,Software quality assurance analysts and testers,187.6,198.2,10.6,5.7,,10.7,104300.0,Bachelor's degree,None,None
+15-1254,15-1254,direct,Web developers,87.4,90.6,3.3,3.8,17.5,5.3,92650.0,Bachelor's degree,None,None
+15-1255,15-1255,direct,Web and digital interface designers,132.7,140.8,8.0,6.0,13.3,8.3,104000.0,Bachelor's degree,None,None
+15-1299,15-1299,direct,"Computer occupations, all other",471.2,495.3,24.2,5.1,4.9,27.0,116580.0,Bachelor's degree,None,None
+15-2011,15-2011,direct,Actuaries,31.2,34.1,2.9,9.2,,1.5,130000.0,Bachelor's degree,None,Long-term on-the-job training
+15-2021,15-2021,direct,Mathematicians,2.2,2.2,0.0,0.6,,0.1,126710.0,Master's degree,None,None
+15-2031,15-2031,direct,Operations research analysts,113.1,126.6,13.5,11.9,,7.5,88940.0,Bachelor's degree,None,None
+15-2041,15-2041,direct,Statisticians,31.3,34.7,3.4,11.0,1.3,1.9,105650.0,Master's degree,None,None
+15-2051,15-2051,direct,Data scientists,275.6,371.0,95.4,34.6,1.9,24.8,120230.0,Bachelor's degree,None,None
+15-2099,15-2099,direct,"Mathematical science occupations, all other",4.0,4.2,0.3,7.1,1.5,0.2,81490.0,Bachelor's degree,None,None
+17-1011,17-1011,direct,"Architects, except landscape and naval",124.6,129.9,5.3,4.3,14.0,6.9,99280.0,Bachelor's degree,None,Internship/residency
+17-1012,17-1012,direct,Landscape architects,23.5,24.5,1.0,4.4,16.7,1.7,79870.0,Bachelor's degree,None,Internship/residency
+17-1021,17-1021,direct,Cartographers and photogrammetrists,14.7,15.7,1.1,7.4,1.2,0.9,81390.0,Bachelor's degree,None,None
+17-1022,17-1022,direct,Surveyors,52.0,55.0,3.0,5.8,2.1,3.1,75440.0,Bachelor's degree,None,Internship/residency
+17-2011,17-2011,direct,Aerospace engineers,68.7,74.4,5.7,8.3,0.2,3.8,134960.0,Bachelor's degree,None,None
+17-2021,17-2021,direct,Agricultural engineers,1.5,1.6,0.1,6.9,,0.1,98590.0,Bachelor's degree,None,None
+17-2031,17-2031,direct,Bioengineers and biomedical engineers,23.8,25.7,1.8,7.6,,1.2,109370.0,Bachelor's degree,None,None
+17-2041,17-2041,direct,Chemical engineers,21.9,22.9,1.0,4.7,2.4,1.1,125040.0,Bachelor's degree,None,None
+17-2051,17-2051,direct,Civil engineers,380.6,405.1,24.5,6.4,1.9,22.7,100840.0,Bachelor's degree,None,None
+17-2061,17-2061,direct,Computer hardware engineers,76.1,83.0,6.9,9.1,,4.1,161740.0,Bachelor's degree,None,None
+17-2071,17-2071,direct,Electrical engineers,199.7,219.5,19.8,9.9,0.5,11.4,120630.0,Bachelor's degree,None,None
+17-2072,17-2072,direct,"Electronics engineers, except computer",98.2,101.8,3.6,3.7,0.4,4.9,130220.0,Bachelor's degree,None,None
+17-2081,17-2081,direct,Environmental engineers,39.1,41.6,2.4,6.3,,2.3,107110.0,Bachelor's degree,None,None
+17-2111,17-2111,direct,"Health and safety engineers, except mining safety engineers and inspectors",22.3,23.5,1.2,5.4,0.3,1.2,115160.0,Bachelor's degree,None,None
+17-2112,17-2112,direct,Industrial engineers,365.1,410.6,45.4,12.4,0.3,23.1,102440.0,Bachelor's degree,None,None
+17-2121,17-2121,direct,Marine engineers and naval architects,8.4,8.9,0.6,6.7,,0.5,112230.0,Bachelor's degree,None,None
+17-2131,17-2131,direct,Materials engineers,23.8,25.6,1.8,7.5,3.7,1.3,112860.0,Bachelor's degree,None,None
+17-2141,17-2141,direct,Mechanical engineers,298.5,332.0,33.5,11.2,0.5,17.8,104110.0,Bachelor's degree,None,None
+17-2151,17-2151,direct,"Mining and geological engineers, including mining safety engineers",6.2,6.4,0.2,3.8,1.6,0.3,106220.0,Bachelor's degree,None,None
+17-2161,17-2161,direct,Nuclear engineers,16.6,16.6,0.1,0.4,5.7,0.8,133970.0,Bachelor's degree,None,None
+17-2171,17-2171,direct,Petroleum engineers,18.5,18.8,0.4,2.0,1.7,1.0,144910.0,Bachelor's degree,None,None
+17-2199,17-2199,direct,"Engineers, all other",166.7,173.0,6.2,3.7,5.2,8.8,122930.0,Bachelor's degree,None,None
+17-3011,17-3011,direct,Architectural and civil drafters,104.1,109.5,5.4,5.2,0.4,9.1,66150.0,Associate's degree,None,None
+17-3012,17-3012,direct,Electrical and electronics drafters,18.9,18.2,-0.6,-3.4,5.0,1.4,76870.0,Associate's degree,None,None
+17-3013,17-3013,direct,Mechanical drafters,42.1,39.6,-2.5,-6.0,5.1,2.9,71550.0,Associate's degree,None,None
+17-3019,17-3019,direct,"Drafters, all other",15.2,14.1,-1.1,-7.3,5.0,1.0,63520.0,Associate's degree,None,None
+17-3021,17-3021,direct,Aerospace engineering and operations technologists and technicians,11.6,12.9,1.4,11.9,1.2,1.1,82890.0,Associate's degree,None,None
+17-3022,17-3022,direct,Civil engineering technologists and technicians,70.9,73.2,2.3,3.2,0.7,6.1,64950.0,Associate's degree,None,None
+17-3023,17-3023,direct,Electrical and electronic engineering technologists and technicians,96.9,99.2,2.3,2.4,1.4,8.1,78190.0,Associate's degree,None,None
+17-3024,17-3024,direct,Electro-mechanical and mechatronics technologists and technicians,15.7,16.2,0.4,2.6,1.2,1.4,73900.0,Associate's degree,None,None
+17-3025,17-3025,direct,Environmental engineering technologists and technicians,12.5,12.9,0.4,3.1,1.0,1.1,59920.0,Associate's degree,None,None
+17-3026,17-3026,direct,Industrial engineering technologists and technicians,76.7,79.0,2.4,3.1,1.2,6.6,66120.0,Associate's degree,None,None
+17-3027,17-3027,direct,Mechanical engineering technologists and technicians,36.9,37.4,0.5,1.3,1.2,3.1,74510.0,Associate's degree,None,None
+17-3028,17-3028,direct,Calibration technologists and technicians,17.0,17.8,0.8,4.8,1.2,1.5,67820.0,Associate's degree,None,None
+17-3029,17-3029,direct,"Engineering technologists and technicians, except drafters, all other",62.4,64.1,1.7,2.8,0.8,5.4,78350.0,Associate's degree,None,None
+17-3031,17-3031,direct,Surveying and mapping technicians,58.8,62.2,3.4,5.8,1.1,6.9,54240.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+19-1011,19-1011,direct,Animal scientists,3.4,3.6,0.2,5.8,4.6,0.2,68940.0,Bachelor's degree,None,None
+19-1012,19-1012,direct,Food scientists and technologists,14.1,14.9,0.9,6.2,5.7,1.0,88720.0,Bachelor's degree,None,None
+19-1013,19-1013,direct,Soil and plant scientists,19.9,21.3,1.3,6.7,3.5,1.4,78850.0,Bachelor's degree,None,None
+19-1021,19-1021,direct,Biochemists and biophysicists,35.2,39.5,4.3,12.3,2.7,2.9,127410.0,Doctoral or professional degree,None,None
+19-1022,19-1022,direct,Microbiologists,20.1,21.4,1.3,6.2,2.0,1.5,87990.0,Bachelor's degree,None,None
+19-1023,19-1023,direct,Zoologists and wildlife biologists,19.5,20.2,0.7,3.6,0.9,1.4,76780.0,Bachelor's degree,None,None
+19-1029,19-1029,direct,"Biological scientists, all other",59.6,62.4,2.8,4.7,1.5,4.3,98920.0,Bachelor's degree,None,None
+19-1031,19-1031,direct,Conservation scientists,27.7,29.2,1.5,5.3,0.4,2.1,73010.0,Bachelor's degree,None,None
+19-1032,19-1032,direct,Foresters,13.2,13.5,0.3,2.2,0.5,0.9,76400.0,Bachelor's degree,None,None
+19-1041,19-1041,direct,Epidemiologists,12.8,15.2,2.4,18.7,,0.8,87220.0,Master's degree,None,None
+19-1042,19-1042,direct,"Medical scientists, except epidemiologists",181.0,203.7,22.7,12.6,,10.5,103410.0,Doctoral or professional degree,None,None
+19-1099,19-1099,direct,"Life scientists, all other",8.0,8.5,0.5,6.3,,0.4,93750.0,Bachelor's degree,None,None
+19-2011,19-2011,direct,Astronomers,2.4,2.6,0.2,7.8,5.8,0.1,128820.0,Doctoral or professional degree,None,None
+19-2012,19-2012,direct,Physicists,23.2,24.8,1.7,7.2,7.0,1.3,172250.0,Doctoral or professional degree,None,None
+19-2021,19-2021,direct,Atmospheric and space scientists,10.7,10.9,0.3,2.6,1.2,0.8,99070.0,Bachelor's degree,None,None
+19-2031,19-2031,direct,Chemists,84.9,90.3,5.5,6.4,0.3,5.9,91240.0,Bachelor's degree,None,None
+19-2032,19-2032,direct,Materials scientists,8.6,9.3,0.7,8.3,,0.6,117790.0,Bachelor's degree,None,None
+19-2041,19-2041,direct,"Environmental scientists and specialists, including health",93.4,99.2,5.7,6.1,,7.3,82220.0,Bachelor's degree,None,None
+19-2042,19-2042,direct,"Geoscientists, except hydrologists and geographers",25.4,26.7,1.3,5.1,4.9,1.8,101920.0,Bachelor's degree,None,None
+19-2043,19-2043,direct,Hydrologists,6.3,6.4,0.1,1.5,2.1,0.4,96600.0,Bachelor's degree,None,None
+19-2099,19-2099,direct,"Physical scientists, all other",26.6,27.1,0.6,2.1,2.7,1.4,122570.0,Bachelor's degree,None,None
+19-3011,19-3011,direct,Economists,18.6,19.5,0.9,4.7,0.3,1.1,124720.0,Master's degree,None,None
+19-3022,19-3022,direct,Survey researchers,9.8,9.3,-0.5,-4.8,9.6,0.6,69460.0,Master's degree,None,None
+19-3032,19-3032,direct,Industrial-organizational psychologists,4.0,4.3,0.3,6.5,80.3,0.3,193950.0,Master's degree,None,Internship/residency
+19-3033,19-3033,direct,Clinical and counseling psychologists,81.3,90.9,9.5,11.7,4.8,4.1,100580.0,Doctoral or professional degree,None,Internship/residency
+19-3034,19-3034,direct,School psychologists,64.0,64.5,0.5,0.8,0.3,3.4,95990.0,Master's degree,None,Internship/residency
+19-3039,19-3039,direct,"Psychologists, all other",60.0,61.4,1.4,2.3,67.2,3.5,110840.0,Master's degree,None,Internship/residency
+19-3041,19-3041,direct,Sociologists,2.7,2.8,0.1,3.8,6.2,0.2,106030.0,Master's degree,None,None
+19-3051,19-3051,direct,Urban and regional planners,45.8,47.6,1.8,3.9,0.9,3.2,89320.0,Master's degree,None,None
+19-3091,19-3091,direct,Anthropologists and archeologists,10.2,10.8,0.6,6.0,8.9,0.8,70770.0,Master's degree,None,None
+19-3092,19-3092,direct,Geographers,1.5,1.5,0.0,-2.1,,0.1,102040.0,Bachelor's degree,None,None
+19-3093,19-3093,direct,Historians,3.8,3.9,0.1,3.0,5.5,0.3,76750.0,Master's degree,None,None
+19-3094,19-3094,direct,Political scientists,6.1,6.0,-0.1,-2.0,2.5,0.4,142080.0,Master's degree,None,None
+19-3099,19-3099,direct,"Social scientists and related workers, all other",41.5,41.4,-0.1,-0.2,3.5,2.7,101110.0,Bachelor's degree,None,None
+19-4012,19-4012,direct,Agricultural technicians,19.5,20.6,1.1,5.4,1.4,2.8,49630.0,Associate's degree,None,Moderate-term on-the-job training
+19-4013,19-4013,direct,Food science technicians,20.8,21.8,1.0,4.8,1.8,3.0,52130.0,Associate's degree,None,Moderate-term on-the-job training
+19-4021,19-4021,direct,Biological technicians,74.4,79.9,5.5,7.4,0.1,9.4,57510.0,Bachelor's degree,None,None
+19-4031,19-4031,direct,Chemical technicians,60.0,63.0,3.0,4.9,2.4,7.6,60390.0,Associate's degree,None,Moderate-term on-the-job training
+19-4042,19-4042,direct,"Environmental science and protection technicians, including health",36.4,38.9,2.5,6.9,1.8,5.3,55090.0,Associate's degree,None,None
+19-4043,19-4043,direct,"Geological technicians, except hydrologic technicians",7.3,7.6,0.3,3.6,2.7,1.0,53350.0,Associate's degree,None,Moderate-term on-the-job training
+19-4044,19-4044,direct,Hydrologic technicians,3.0,3.0,0.0,-1.3,,0.4,64790.0,Associate's degree,None,Moderate-term on-the-job training
+19-4051,19-4051,direct,Nuclear technicians,6.7,6.8,0.1,1.1,2.7,0.9,110240.0,Associate's degree,None,Moderate-term on-the-job training
+19-4061,19-4061,direct,Social science research assistants,38.4,40.4,1.9,5.0,7.7,4.9,61990.0,Bachelor's degree,None,None
+19-4071,19-4071,direct,Forest and conservation technicians,32.8,32.2,-0.7,-2.1,1.1,3.8,54560.0,Associate's degree,None,None
+19-4092,19-4092,direct,Forensic science technicians,20.1,22.8,2.7,13.3,0.9,2.8,72060.0,Bachelor's degree,None,Moderate-term on-the-job training
+19-4099,19-4099,direct,"Life, physical, and social science technicians, all other",89.5,93.4,3.9,4.4,7.4,11.2,62280.0,Associate's degree,None,None
+19-5011,19-5011,direct,Occupational health and safety specialists,143.1,169.6,26.4,18.5,,17.1,90150.0,Bachelor's degree,None,None
+19-5012,19-5012,direct,Occupational health and safety technicians,31.2,37.2,6.1,19.4,,3.8,61560.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+21-1011,21-1018,via combined code,"Substance abuse, behavioral disorder, and mental health counselors",533.4,631.4,98.0,18.4,5.4,50.5,59350.0,Master's degree,None,Internship/residency
+21-1012,21-1012,direct,"Educational, guidance, and career counselors and advisors",389.5,400.9,11.4,2.9,0.6,27.8,64330.0,Master's degree,None,None
+21-1013,21-1013,direct,Marriage and family therapists,76.3,86.6,10.3,13.5,10.9,6.9,66940.0,Master's degree,None,Internship/residency
+21-1014,21-1018,via combined code,"Substance abuse, behavioral disorder, and mental health counselors",533.4,631.4,98.0,18.4,5.4,50.5,59350.0,Master's degree,None,Internship/residency
+21-1015,21-1015,direct,Rehabilitation counselors,96.9,99.0,2.2,2.2,,8.2,46850.0,Master's degree,None,None
+21-1019,21-1019,direct,"Counselors, all other",49.8,52.7,2.9,5.9,38.8,4.3,50860.0,Master's degree,None,None
+21-1021,21-1021,direct,"Child, family, and school social workers",405.1,422.9,17.8,4.4,,33.9,59550.0,Bachelor's degree,None,None
+21-1022,21-1022,direct,Healthcare social workers,194.8,211.3,16.5,8.5,0.9,16.9,67880.0,Master's degree,None,Internship/residency
+21-1023,21-1023,direct,Mental health and substance abuse social workers,138.9,153.2,14.3,10.3,2.4,12.5,60280.0,Master's degree,None,Internship/residency
+21-1029,21-1029,direct,"Social workers, all other",77.4,79.2,1.8,2.3,14.8,5.8,71900.0,Bachelor's degree,None,None
+21-1091,21-1091,direct,Health education specialists,70.4,74.4,3.9,5.6,0.2,6.9,64070.0,Bachelor's degree,None,None
+21-1092,21-1092,direct,Probation officers and correctional treatment specialists,93.7,96.5,2.8,3.0,,7.9,66270.0,Bachelor's degree,None,Moderate-term on-the-job training
+21-1093,21-1093,direct,Social and human service assistants,463.4,497.6,34.2,7.4,0.2,48.9,45930.0,High school diploma or equivalent,None,Short-term on-the-job training
+21-1094,21-1094,direct,Community health workers,64.7,72.9,8.2,12.7,0.3,7.0,51850.0,High school diploma or equivalent,None,Short-term on-the-job training
+21-1099,21-1099,direct,"Community and social service specialists, all other",118.6,125.2,6.6,5.5,0.2,11.6,56730.0,Bachelor's degree,None,None
+21-2011,21-2011,direct,Clergy,242.0,247.8,5.7,2.4,5.7,19.2,60810.0,Bachelor's degree,None,Moderate-term on-the-job training
+21-2021,21-2021,direct,"Directors, religious activities and education",141.9,146.6,4.7,3.3,0.7,13.0,52100.0,Bachelor's degree,Less than 5 years,None
+21-2099,21-2099,direct,"Religious workers, all other",113.3,115.0,1.7,1.5,2.5,12.1,45280.0,Bachelor's degree,None,None
+23-1011,23-1011,direct,Lawyers,863.7,904.3,40.6,4.7,11.3,28.7,159670.0,Doctoral or professional degree,None,None
+23-1012,23-1012,direct,Judicial law clerks,14.0,14.4,0.4,2.8,,1.5,64920.0,Doctoral or professional degree,None,None
+23-1021,23-1021,direct,"Administrative law judges, adjudicators, and hearing officers",17.4,17.4,0.0,0.0,,0.5,117860.0,Doctoral or professional degree,5 years or more,Short-term on-the-job training
+23-1022,23-1022,direct,"Arbitrators, mediators, and conciliators",10.5,11.0,0.5,4.7,9.5,0.3,75530.0,Bachelor's degree,Less than 5 years,Moderate-term on-the-job training
+23-1023,23-1023,direct,"Judges, magistrate judges, and magistrates",25.3,26.0,0.7,2.8,,0.8,153990.0,Doctoral or professional degree,5 years or more,Short-term on-the-job training
+23-2011,23-2011,direct,Paralegals and legal assistants,404.9,403.8,-1.1,-0.3,2.1,40.8,62890.0,Associate's degree,None,None
+23-2093,23-2093,direct,"Title examiners, abstractors, and searchers",59.8,61.1,1.3,2.1,11.5,5.3,58650.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+23-2099,23-2099,direct,"Legal support workers, all other",50.2,50.0,-0.1,-0.3,2.6,4.7,72110.0,Associate's degree,None,None
+25-1011,25-1011,direct,"Business teachers, postsecondary",103.6,109.7,6.1,5.9,0.2,7.6,99080.0,Doctoral or professional degree,None,None
+25-1021,25-1021,direct,"Computer science teachers, postsecondary",43.9,46.1,2.2,4.9,0.2,3.2,96980.0,Doctoral or professional degree,None,None
+25-1022,25-1022,direct,"Mathematical science teachers, postsecondary",57.1,58.1,1.0,1.7,0.1,3.9,79940.0,Doctoral or professional degree,None,None
+25-1031,25-1031,direct,"Architecture teachers, postsecondary",9.7,10.0,0.3,2.6,,0.7,96870.0,Doctoral or professional degree,None,None
+25-1032,25-1032,direct,"Engineering teachers, postsecondary",50.9,54.9,3.9,7.8,0.2,3.9,109270.0,Doctoral or professional degree,None,None
+25-1041,25-1041,direct,"Agricultural sciences teachers, postsecondary",10.9,11.2,0.3,2.9,,0.8,98700.0,Doctoral or professional degree,None,None
+25-1042,25-1042,direct,"Biological science teachers, postsecondary",62.0,66.5,4.5,7.3,0.2,4.7,84620.0,Doctoral or professional degree,None,None
+25-1043,25-1043,direct,"Forestry and conservation science teachers, postsecondary",1.8,1.9,0.1,2.8,,0.1,101420.0,Doctoral or professional degree,None,None
+25-1051,25-1051,direct,"Atmospheric, earth, marine, and space sciences teachers, postsecondary",12.0,12.3,0.3,2.4,,0.8,103170.0,Doctoral or professional degree,None,None
+25-1052,25-1052,direct,"Chemistry teachers, postsecondary",24.9,25.4,0.6,2.3,,1.7,93250.0,Doctoral or professional degree,None,None
+25-1053,25-1053,direct,"Environmental science teachers, postsecondary",8.4,8.7,0.2,2.7,,0.6,94980.0,Doctoral or professional degree,None,None
+25-1054,25-1054,direct,"Physics teachers, postsecondary",16.4,16.8,0.4,2.4,,1.1,100310.0,Doctoral or professional degree,None,None
+25-1061,25-1061,direct,"Anthropology and archeology teachers, postsecondary",6.5,6.7,0.2,2.6,,0.4,99650.0,Doctoral or professional degree,None,None
+25-1062,25-1062,direct,"Area, ethnic, and cultural studies teachers, postsecondary",14.3,14.7,0.4,2.7,,1.0,85020.0,Doctoral or professional degree,None,None
+25-1063,25-1063,direct,"Economics teachers, postsecondary",14.6,15.0,0.4,2.4,,1.0,123920.0,Doctoral or professional degree,None,None
+25-1064,25-1064,direct,"Geography teachers, postsecondary",4.1,4.2,0.1,2.7,,0.3,97590.0,Doctoral or professional degree,None,None
+25-1065,25-1065,direct,"Political science teachers, postsecondary",21.5,22.0,0.5,2.5,0.2,1.5,98070.0,Doctoral or professional degree,None,None
+25-1066,25-1066,direct,"Psychology teachers, postsecondary",52.3,54.4,2.1,4.0,0.3,3.7,80340.0,Doctoral or professional degree,None,None
+25-1067,25-1067,direct,"Sociology teachers, postsecondary",14.6,15.0,0.3,2.2,,1.0,84290.0,Doctoral or professional degree,None,None
+25-1069,25-1069,direct,"Social sciences teachers, postsecondary, all other",19.6,19.9,0.3,1.6,,1.3,72990.0,Doctoral or professional degree,None,None
+25-1071,25-1071,direct,"Health specialties teachers, postsecondary",278.4,328.3,49.9,17.9,0.3,24.9,107310.0,Doctoral or professional degree,Less than 5 years,None
+25-1072,25-1072,direct,"Nursing instructors and teachers, postsecondary",96.1,112.6,16.5,17.1,0.3,8.5,80250.0,Doctoral or professional degree,Less than 5 years,None
+25-1081,25-1081,direct,"Education teachers, postsecondary",77.2,79.2,1.9,2.5,0.2,5.3,75350.0,Doctoral or professional degree,Less than 5 years,None
+25-1082,25-1082,direct,"Library science teachers, postsecondary",4.5,4.6,0.1,2.7,,0.3,80340.0,Doctoral or professional degree,None,None
+25-1111,25-1111,direct,"Criminal justice and law enforcement teachers, postsecondary",15.7,15.9,0.2,1.5,,1.1,76590.0,Doctoral or professional degree,None,None
+25-1112,25-1112,direct,"Law teachers, postsecondary",25.8,26.5,0.7,2.6,0.3,1.8,128500.0,Doctoral or professional degree,Less than 5 years,None
+25-1113,25-1113,direct,"Social work teachers, postsecondary",16.0,16.4,0.4,2.6,,1.1,77570.0,Doctoral or professional degree,None,None
+25-1121,25-1121,direct,"Art, drama, and music teachers, postsecondary",116.9,119.5,2.6,2.2,0.3,8.0,78620.0,Master's degree,None,None
+25-1122,25-1122,direct,"Communications teachers, postsecondary",35.8,36.5,0.8,2.1,0.2,2.4,78580.0,Doctoral or professional degree,None,None
+25-1123,25-1123,direct,"English language and literature teachers, postsecondary",69.3,69.3,0.0,0.0,0.2,4.5,78760.0,Doctoral or professional degree,None,None
+25-1124,25-1124,direct,"Foreign language and literature teachers, postsecondary",24.6,24.7,0.1,0.2,0.2,1.6,79350.0,Doctoral or professional degree,None,None
+25-1125,25-1125,direct,"History teachers, postsecondary",23.2,23.2,0.0,0.0,,1.5,83820.0,Doctoral or professional degree,None,None
+25-1126,25-1126,direct,"Philosophy and religion teachers, postsecondary",26.8,27.3,0.5,2.0,0.4,1.8,80260.0,Doctoral or professional degree,None,None
+25-1192,25-1192,direct,"Family and consumer sciences teachers, postsecondary",3.4,3.5,0.1,2.4,,0.2,75870.0,Doctoral or professional degree,None,None
+25-1193,25-1193,direct,"Recreation and fitness studies teachers, postsecondary",15.2,15.6,0.3,2.2,,1.0,77270.0,Doctoral or professional degree,None,None
+25-1194,25-1194,direct,"Career/technical education teachers, postsecondary",123.1,122.7,-0.4,-0.3,0.3,8.0,63820.0,Bachelor's degree,Less than 5 years,None
+25-1199,25-1199,direct,"Postsecondary teachers, all other",183.2,186.8,3.6,2.0,0.2,12.5,77640.0,Doctoral or professional degree,None,None
+25-2011,25-2011,direct,"Preschool teachers, except special education",583.2,609.4,26.2,4.5,0.9,66.7,38140.0,Associate's degree,None,None
+25-2012,25-2012,direct,"Kindergarten teachers, except special education",111.2,110.9,-0.3,-0.3,0.2,11.9,62680.0,Bachelor's degree,None,None
+25-2021,25-2021,direct,"Elementary school teachers, except special education",1419.3,1413.4,-5.8,-0.4,0.3,87.5,63970.0,Bachelor's degree,None,None
+25-2022,25-2022,direct,"Middle school teachers, except special and career/technical education",630.1,627.4,-2.6,-0.4,0.3,38.8,64370.0,Bachelor's degree,None,None
+25-2023,25-2023,direct,"Career/technical education teachers, middle school",16.6,16.6,-0.1,-0.5,,1.0,65030.0,Bachelor's degree,Less than 5 years,None
+25-2031,25-2031,direct,"Secondary school teachers, except special and career/technical education",1087.5,1085.0,-2.5,-0.2,0.1,63.5,72040.0,Bachelor's degree,None,None
+25-2032,25-2032,direct,"Career/technical education teachers, secondary school",110.5,110.1,-0.4,-0.4,,6.4,66270.0,Bachelor's degree,Less than 5 years,None
+25-2051,25-2051,direct,"Special education teachers, preschool",30.5,31.3,0.7,2.4,1.3,2.0,64830.0,Bachelor's degree,None,None
+25-2055,25-2052,via combined code,"Special education teachers, kindergarten and elementary school",259.1,258.1,-0.9,-0.4,0.2,16.4,65120.0,Bachelor's degree,None,None
+25-2056,25-2052,via combined code,"Special education teachers, kindergarten and elementary school",259.1,258.1,-0.9,-0.4,0.2,16.4,65120.0,Bachelor's degree,None,None
+25-2057,25-2057,direct,"Special education teachers, middle school",94.8,94.4,-0.4,-0.4,0.2,6.0,66810.0,Bachelor's degree,None,None
+25-2058,25-2058,direct,"Special education teachers, secondary school",164.8,164.5,-0.4,-0.2,0.4,10.4,74260.0,Bachelor's degree,None,None
+25-2059,25-2059,direct,"Special education teachers, all other",34.8,35.5,0.7,1.9,1.0,2.3,76580.0,Bachelor's degree,None,None
+25-3011,25-3011,direct,"Adult basic education, adult secondary education, and english as a second language instructors",41.1,35.4,-5.7,-13.9,5.0,3.8,61540.0,Bachelor's degree,None,None
+25-3021,25-3021,direct,Self-enrichment teachers,419.1,433.7,14.6,3.5,14.9,50.0,46800.0,High school diploma or equivalent,Less than 5 years,None
+25-3031,25-3031,direct,"Substitute teachers, short-term",556.1,567.0,10.9,2.0,5.2,65.0,41670.0,Bachelor's degree,None,None
+25-3041,25-3041,direct,Tutors,208.4,208.0,-0.5,-0.2,12.3,34.2,43350.0,"Some college, no degree",None,None
+25-3099,25-3099,direct,"Teachers and instructors, all other",138.6,138.3,-0.3,-0.2,7.0,15.7,66140.0,Bachelor's degree,None,None
+25-4011,25-4011,direct,Archivists,10.3,10.6,0.3,3.4,7.1,1.1,64550.0,Master's degree,None,None
+25-4012,25-4012,direct,Curators,14.2,14.9,0.7,4.9,8.8,1.6,63420.0,Master's degree,None,None
+25-4013,25-4013,direct,Museum technicians and conservators,14.0,14.5,0.5,3.6,7.9,1.6,51440.0,Bachelor's degree,None,None
+25-4022,25-4022,direct,Librarians and media collections specialists,142.3,145.9,3.6,2.6,,12.6,68270.0,Master's degree,None,None
+25-4031,25-4031,direct,Library technicians,72.8,68.1,-4.6,-6.4,,10.8,44580.0,Postsecondary nondegree award,None,None
+25-9021,25-9021,direct,Farm and home management educators,9.7,9.4,-0.3,-3.2,,0.8,60220.0,Master's degree,None,None
+25-9031,25-9031,direct,Instructional coordinators,248.7,252.8,4.1,1.6,2.3,23.1,77440.0,Master's degree,5 years or more,None
+25-9042,25-9045,via combined code,"Teaching assistants, except postsecondary",1463.0,1458.0,-4.9,-0.3,0.1,176.2,36780.0,"Some college, no degree",None,None
+25-9043,25-9045,via combined code,"Teaching assistants, except postsecondary",1463.0,1458.0,-4.9,-0.3,0.1,176.2,36780.0,"Some college, no degree",None,None
+25-9044,25-9044,direct,"Teaching assistants, postsecondary",205.5,211.0,5.5,2.7,0.1,25.7,42910.0,Bachelor's degree,None,None
+25-9049,25-9045,via combined code,"Teaching assistants, except postsecondary",1463.0,1458.0,-4.9,-0.3,0.1,176.2,36780.0,"Some college, no degree",None,None
+25-9099,25-9099,direct,"Educational instruction and library workers, all other",136.8,139.3,2.5,1.8,1.8,12.7,50890.0,Bachelor's degree,None,None
+27-1011,27-1011,direct,Art directors,140.2,146.0,5.9,4.2,62.1,12.2,114850.0,Bachelor's degree,5 years or more,None
+27-1012,27-1012,direct,Craft artists,11.5,11.8,0.2,2.0,62.1,1.0,46080.0,No formal educational credential,None,Long-term on-the-job training
+27-1013,27-1013,direct,"Fine artists, including painters, sculptors, and illustrators",28.9,28.0,-0.8,-2.9,62.8,2.2,55490.0,Bachelor's degree,None,Long-term on-the-job training
+27-1014,27-1014,direct,Special effects artists and animators,51.9,51.8,-0.1,-0.3,62.9,4.2,102030.0,Bachelor's degree,None,None
+27-1019,27-1019,direct,"Artists and related workers, all other",13.0,13.2,0.3,2.0,43.9,1.1,71240.0,No formal educational credential,None,Long-term on-the-job training
+27-1021,27-1021,direct,Commercial and industrial designers,35.4,36.3,0.9,2.4,6.5,2.8,83910.0,Bachelor's degree,None,None
+27-1022,27-1022,direct,Fashion designers,32.7,32.8,0.0,0.1,35.7,2.5,80960.0,Bachelor's degree,None,None
+27-1023,27-1023,direct,Floral designers,45.2,42.7,-2.5,-5.6,13.9,5.2,37360.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+27-1024,27-1024,direct,Graphic designers,253.1,248.8,-4.2,-1.7,20.5,16.0,62960.0,Bachelor's degree,None,None
+27-1025,27-1025,direct,Interior designers,97.1,99.7,2.6,2.7,26.4,7.7,67190.0,Bachelor's degree,None,None
+27-1026,27-1026,direct,Merchandise displayers and window trimmers,164.8,169.2,4.4,2.7,0.2,17.2,39390.0,High school diploma or equivalent,None,Short-term on-the-job training
+27-1027,27-1027,direct,Set and exhibit designers,31.6,32.0,0.5,1.4,66.3,2.2,75240.0,Bachelor's degree,None,None
+27-1029,27-1029,direct,"Designers, all other",29.5,29.9,0.4,1.2,67.4,2.1,64950.0,Bachelor's degree,None,None
+27-2011,27-2011,direct,Actors,67.5,67.5,0.0,0.0,23.0,6.3,,"Some college, no degree",None,Long-term on-the-job training
+27-2012,27-2012,direct,Producers and directors,181.0,188.3,7.3,4.0,20.4,12.1,90360.0,Bachelor's degree,Less than 5 years,None
+27-2021,27-2021,direct,Athletes and sports competitors,22.9,24.1,1.3,5.5,29.0,2.2,66710.0,No formal educational credential,None,Long-term on-the-job training
+27-2022,27-2022,direct,Coaches and scouts,298.8,316.9,18.1,6.1,8.3,36.4,47320.0,Bachelor's degree,None,None
+27-2023,27-2023,direct,"Umpires, referees, and other sports officials",18.2,19.2,0.9,5.2,9.7,4.3,40710.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+27-2031,27-2031,direct,Dancers,13.8,14.1,0.3,2.2,40.7,1.6,,No formal educational credential,None,Long-term on-the-job training
+27-2032,27-2032,direct,Choreographers,4.7,4.9,0.1,3.1,39.6,0.6,55310.0,High school diploma or equivalent,5 years or more,Long-term on-the-job training
+27-2041,27-2041,direct,Music directors and composers,51.1,51.7,0.6,1.2,24.7,4.2,73710.0,Bachelor's degree,Less than 5 years,None
+27-2042,27-2042,direct,Musicians and singers,170.4,170.9,0.6,0.3,47.8,17.4,,No formal educational credential,None,Long-term on-the-job training
+27-2091,27-2091,direct,"Disc jockeys, except radio",16.9,17.6,0.6,3.8,56.1,1.7,,High school diploma or equivalent,None,Short-term on-the-job training
+27-2099,27-2099,direct,"Entertainers and performers, sports and related workers, all other",43.7,45.8,2.1,4.7,61.7,4.5,,No formal educational credential,None,Short-term on-the-job training
+27-3011,27-3011,direct,Broadcast announcers and radio disc jockeys,21.8,20.2,-1.7,-7.6,2.3,2.0,47340.0,Bachelor's degree,None,None
+27-3023,27-3023,direct,"News analysts, reporters, and journalists",47.1,44.3,-2.8,-5.9,16.8,3.4,62200.0,Bachelor's degree,None,None
+27-3031,27-3031,direct,Public relations specialists,314.5,320.2,5.7,1.8,1.1,23.0,74750.0,Bachelor's degree,None,None
+27-3041,27-3041,direct,Editors,105.0,103.8,-1.1,-1.1,9.0,7.9,77920.0,Bachelor's degree,Less than 5 years,None
+27-3042,27-3042,direct,Technical writers,46.4,46.7,0.4,0.8,1.0,3.2,90390.0,Bachelor's degree,Less than 5 years,Short-term on-the-job training
+27-3043,27-3043,direct,Writers and authors,140.3,139.9,-0.5,-0.3,64.8,11.9,76910.0,Bachelor's degree,None,Long-term on-the-job training
+27-3091,27-3091,direct,Interpreters and translators,73.9,75.4,1.5,2.0,27.6,6.0,60170.0,Bachelor's degree,None,None
+27-3092,27-3092,direct,Court reporters and simultaneous captioners,19.9,19.9,0.0,-0.1,33.4,1.8,72420.0,Postsecondary nondegree award,None,Short-term on-the-job training
+27-3099,27-3099,direct,"Media and communication workers, all other",25.5,26.5,1.0,3.9,14.1,2.0,73620.0,High school diploma or equivalent,None,Short-term on-the-job training
+27-4011,27-4011,direct,Audio and video technicians,87.6,91.1,3.4,3.9,10.0,6.6,58100.0,Postsecondary nondegree award,None,Short-term on-the-job training
+27-4012,27-4012,direct,Broadcast technicians,24.1,23.3,-0.8,-3.1,11.3,1.6,59570.0,Associate's degree,None,Short-term on-the-job training
+27-4014,27-4014,direct,Sound engineering technicians,15.0,14.6,-0.5,-3.1,11.8,1.0,73130.0,Postsecondary nondegree award,None,Short-term on-the-job training
+27-4015,27-4015,direct,Lighting technicians,9.9,9.4,-0.5,-4.8,12.2,0.6,68060.0,Postsecondary nondegree award,None,Short-term on-the-job training
+27-4021,27-4021,direct,Photographers,145.0,144.0,-1.0,-0.7,66.7,10.7,44660.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+27-4031,27-4031,direct,"Camera operators, television, video, and film",32.6,33.0,0.4,1.3,34.7,2.5,74990.0,Bachelor's degree,None,None
+27-4032,27-4032,direct,Film and video editors,39.4,40.8,1.5,3.7,35.5,3.1,75420.0,Bachelor's degree,None,None
+27-4099,27-4099,direct,"Media and communication equipment workers, all other",14.0,14.3,0.2,1.6,7.6,1.0,70720.0,High school diploma or equivalent,None,Short-term on-the-job training
+29-1011,29-1011,direct,Chiropractors,61.7,67.0,5.3,8.7,36.3,2.6,79200.0,Doctoral or professional degree,None,None
+29-1021,29-1021,direct,"Dentists, general",141.9,150.0,8.1,5.7,12.4,4.2,170950.0,Doctoral or professional degree,None,None
+29-1022,29-1022,direct,Oral and maxillofacial surgeons,5.6,5.9,0.3,5.6,12.3,0.2,352220.0,Doctoral or professional degree,None,Internship/residency
+29-1023,29-1023,direct,Orthodontists,7.1,7.5,0.4,6.0,12.6,0.2,289140.0,Doctoral or professional degree,None,Internship/residency
+29-1024,29-1024,direct,Prosthodontists,1.0,1.1,0.1,5.8,12.6,0.0,311180.0,Doctoral or professional degree,None,Internship/residency
+29-1029,29-1029,direct,"Dentists, all other specialists",5.8,5.9,0.1,1.3,7.0,0.1,224990.0,Doctoral or professional degree,None,Internship/residency
+29-1031,29-1031,direct,Dietitians and nutritionists,86.3,93.0,6.7,7.7,8.5,5.7,76400.0,Bachelor's degree,None,Internship/residency
+29-1041,29-1041,direct,Optometrists,45.1,49.4,4.3,9.5,5.0,2.0,136570.0,Doctoral or professional degree,None,None
+29-1051,29-1051,direct,Pharmacists,325.2,342.3,17.1,5.2,0.3,12.5,140910.0,Doctoral or professional degree,None,None
+29-1071,29-1071,direct,Physician assistants,168.9,204.6,35.7,21.1,1.4,11.5,135880.0,Master's degree,None,None
+29-1081,29-1081,direct,Podiatrists,10.0,10.2,0.2,2.0,1.9,0.2,160300.0,Doctoral or professional degree,None,Internship/residency
+29-1122,29-1122,direct,Occupational therapists,169.6,194.8,25.2,14.8,2.5,10.0,100330.0,Master's degree,None,None
+29-1123,29-1123,direct,Physical therapists,283.7,317.6,33.8,11.9,4.2,13.4,102760.0,Doctoral or professional degree,None,None
+29-1124,29-1124,direct,Radiation therapists,17.4,17.9,0.5,2.8,,0.7,105310.0,Associate's degree,None,None
+29-1125,29-1125,direct,Recreational therapists,15.6,16.3,0.8,4.8,,1.4,61960.0,Bachelor's degree,None,None
+29-1126,29-1126,direct,Respiratory therapists,142.0,154.2,12.1,8.5,,8.6,82280.0,Associate's degree,None,None
+29-1127,29-1127,direct,Speech-language pathologists,193.4,225.5,32.1,16.6,4.5,12.5,97870.0,Master's degree,None,Internship/residency
+29-1128,29-1128,direct,Exercise physiologists,21.2,23.9,2.7,12.8,58.9,1.4,59460.0,Bachelor's degree,None,None
+29-1129,29-1129,direct,"Therapists, all other",56.1,63.2,7.1,12.6,58.8,3.6,77930.0,Bachelor's degree,None,None
+29-1131,29-1131,direct,Veterinarians,91.1,99.6,8.6,9.4,7.2,3.1,130100.0,Doctoral or professional degree,None,None
+29-1141,29-1141,direct,Registered nurses,3465.4,3660.1,194.7,5.6,0.5,180.8,97550.0,Bachelor's degree,None,None
+29-1151,29-1151,direct,Nurse anesthetists,54.5,59.8,5.3,9.7,2.8,2.4,236590.0,Master's degree,None,None
+29-1161,29-1161,direct,Nurse midwives,8.2,9.1,0.9,11.5,1.7,0.4,134040.0,Master's degree,None,None
+29-1171,29-1171,direct,Nurse practitioners,336.3,474.1,137.8,41.0,1.6,29.4,132300.0,Master's degree,None,None
+29-1181,29-1181,direct,Audiologists,14.2,15.7,1.6,11.0,2.2,0.6,95780.0,Doctoral or professional degree,None,None
+29-1211,29-1211,direct,Anesthesiologists,41.5,43.0,1.5,3.6,3.9,1.1,391490.0,Doctoral or professional degree,None,Internship/residency
+29-1212,29-1212,direct,Cardiologists,18.5,19.4,0.9,4.8,3.8,0.5,496010.0,Doctoral or professional degree,None,Internship/residency
+29-1213,29-1213,direct,Dermatologists,12.2,13.0,0.8,6.8,4.0,0.4,328730.0,Doctoral or professional degree,None,Internship/residency
+29-1214,29-1214,direct,Emergency medicine physicians,34.9,36.1,1.1,3.2,3.7,0.9,335550.0,Doctoral or professional degree,None,Internship/residency
+29-1215,29-1215,direct,Family medicine physicians,114.3,118.0,3.7,3.3,3.8,2.9,244180.0,Doctoral or professional degree,None,Internship/residency
+29-1216,29-1216,direct,General internal medicine physicians,73.1,76.0,2.9,4.0,3.6,1.9,256560.0,Doctoral or professional degree,None,Internship/residency
+29-1217,29-1217,direct,Neurologists,11.4,12.1,0.7,6.4,3.7,0.3,248560.0,Doctoral or professional degree,None,Internship/residency
+29-1218,29-1218,direct,Obstetricians and gynecologists,22.8,23.2,0.4,1.7,3.8,0.5,292910.0,Doctoral or professional degree,None,Internship/residency
+29-1221,29-1221,direct,"Pediatricians, general",42.2,42.9,0.6,1.5,3.8,1.0,210040.0,Doctoral or professional degree,None,Internship/residency
+29-1222,29-1222,direct,"Physicians, pathologists",11.8,12.4,0.6,4.8,3.6,0.3,312400.0,Doctoral or professional degree,None,Internship/residency
+29-1223,29-1223,direct,Psychiatrists,30.0,32.1,2.1,7.2,3.2,0.9,281870.0,Doctoral or professional degree,None,Internship/residency
+29-1224,29-1224,direct,Radiologists,28.7,29.6,1.0,3.4,3.8,0.7,420860.0,Doctoral or professional degree,None,Internship/residency
+29-1229,29-1229,direct,"Physicians, all other",367.4,380.1,12.6,3.4,3.3,9.4,265930.0,Doctoral or professional degree,None,Internship/residency
+29-1241,29-1241,direct,"Ophthalmologists, except pediatric",9.7,10.2,0.4,4.5,5.7,0.2,300080.0,Doctoral or professional degree,None,Internship/residency
+29-1242,29-1242,direct,"Orthopedic surgeons, except pediatric",15.5,16.1,0.6,4.0,5.5,0.4,358550.0,Doctoral or professional degree,None,Internship/residency
+29-1243,29-1243,direct,Pediatric surgeons,1.3,1.3,0.0,2.0,5.2,0.0,559030.0,Doctoral or professional degree,None,Internship/residency
+29-1249,29-1249,direct,"Surgeons, all other",27.5,28.6,1.1,4.0,5.3,0.7,414010.0,Doctoral or professional degree,None,Internship/residency
+29-1291,29-1291,direct,Acupuncturists,14.8,16.0,1.3,8.6,46.2,0.8,76040.0,Master's degree,None,None
+29-1292,29-1292,direct,Dental hygienists,225.3,243.2,17.9,8.0,1.3,15.0,98100.0,Associate's degree,None,None
+29-1299,29-1299,direct,"Healthcare diagnosing or treating practitioners, all other",39.6,41.8,2.2,5.5,23.5,1.9,115210.0,Master's degree,None,None
+29-2011,29-2010,via combined code,Clinical laboratory technologists and technicians,343.0,352.4,9.4,2.7,0.7,20.8,62930.0,Bachelor's degree,None,None
+29-2012,29-2010,via combined code,Clinical laboratory technologists and technicians,343.0,352.4,9.4,2.7,0.7,20.8,62930.0,Bachelor's degree,None,None
+29-2031,29-2031,direct,Cardiovascular technologists and technicians,64.5,66.9,2.4,3.7,1.2,3.4,74310.0,Associate's degree,None,None
+29-2032,29-2032,direct,Diagnostic medical sonographers,92.2,105.1,12.9,13.9,1.1,6.0,96590.0,Associate's degree,None,None
+29-2033,29-2033,direct,Nuclear medicine technologists,17.4,18.2,0.8,4.4,0.6,0.8,101370.0,Associate's degree,None,None
+29-2034,29-2034,direct,Radiologic technologists and technicians,234.2,246.0,11.8,5.0,0.4,13.0,80110.0,Associate's degree,None,None
+29-2035,29-2035,direct,Magnetic resonance imaging technologists,43.9,47.3,3.4,7.7,,2.3,95480.0,Associate's degree,Less than 5 years,None
+29-2036,29-2036,direct,Medical dosimetrists,3.5,3.7,0.2,5.0,,0.2,147470.0,Bachelor's degree,None,None
+29-2042,29-2042,direct,Emergency medical technicians,181.9,192.5,10.6,5.8,,13.8,44470.0,Postsecondary nondegree award,None,None
+29-2043,29-2043,direct,Paramedics,102.2,108.0,5.8,5.7,0.5,4.3,60600.0,Postsecondary nondegree award,Less than 5 years,None
+29-2051,29-2051,direct,Dietetic technicians,32.1,32.9,0.9,2.7,0.4,4.2,37640.0,Associate's degree,None,None
+29-2052,29-2052,direct,Pharmacy technicians,471.2,501.3,30.1,6.4,0.1,44.7,45750.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+29-2053,29-2053,direct,Psychiatric technicians,161.5,197.5,36.0,22.3,,17.0,45130.0,Postsecondary nondegree award,Less than 5 years,Short-term on-the-job training
+29-2055,29-2055,direct,Surgical technologists,118.4,124.3,5.9,5.0,,7.1,64650.0,Postsecondary nondegree award,None,None
+29-2056,29-2056,direct,Veterinary technologists and technicians,131.4,143.8,12.3,9.4,,13.4,47380.0,Associate's degree,None,None
+29-2057,29-2057,direct,Ophthalmic medical technicians,72.5,88.0,15.5,21.4,0.4,11.8,45570.0,Postsecondary nondegree award,None,None
+29-2061,29-2061,direct,Licensed practical and licensed vocational nurses,666.9,686.7,19.7,3.0,0.9,51.8,64400.0,Postsecondary nondegree award,None,None
+29-2072,29-2072,direct,Medical records specialists,200.7,216.3,15.6,7.8,1.0,14.0,51140.0,Postsecondary nondegree award,None,None
+29-2081,29-2081,direct,"Opticians, dispensing",74.3,77.4,3.1,4.2,1.6,5.6,47260.0,High school diploma or equivalent,None,Long-term on-the-job training
+29-2091,29-2091,direct,Orthotists and prosthetists,9.5,10.7,1.2,12.9,,0.7,81110.0,Master's degree,None,Internship/residency
+29-2092,29-2092,direct,Hearing aid specialists,11.2,13.4,2.2,19.4,0.5,0.9,65160.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+29-2099,29-2099,direct,"Health technologists and technicians, all other",185.6,196.4,10.9,5.9,0.4,12.4,50290.0,Postsecondary nondegree award,None,None
+29-9021,29-9021,direct,Health information technologists and medical registrars,42.0,48.6,6.7,15.9,7.2,3.0,68020.0,Associate's degree,None,None
+29-9091,29-9091,direct,Athletic trainers,35.2,39.6,4.4,12.7,5.9,2.4,62520.0,Master's degree,None,None
+29-9092,29-9092,direct,Genetic counselors,4.2,4.6,0.4,10.4,7.6,0.3,100040.0,Master's degree,None,None
+29-9093,29-9093,direct,Surgical assistants,24.4,25.9,1.5,6.1,8.1,1.4,66800.0,Postsecondary nondegree award,None,None
+29-9099,29-9099,direct,"Healthcare practitioners and technical workers, all other",39.1,41.0,2.0,5.1,6.3,2.2,65790.0,Postsecondary nondegree award,None,None
+31-1121,31-1120,via combined code,Home health and personal care aides,4677.1,5524.4,847.3,18.1,3.0,760.5,35800.0,High school diploma or equivalent,None,Short-term on-the-job training
+31-1122,31-1120,via combined code,Home health and personal care aides,4677.1,5524.4,847.3,18.1,3.0,760.5,35800.0,High school diploma or equivalent,None,Short-term on-the-job training
+31-1131,31-1131,direct,Nursing assistants,1505.9,1544.9,39.0,2.6,1.8,196.2,42260.0,Postsecondary nondegree award,None,None
+31-1132,31-1132,direct,Orderlies,52.8,54.9,2.1,4.0,,7.2,38290.0,High school diploma or equivalent,None,Short-term on-the-job training
+31-1133,31-1133,direct,Psychiatric aides,36.9,37.6,0.7,1.9,0.3,4.9,44910.0,High school diploma or equivalent,None,Short-term on-the-job training
+31-2011,31-2011,direct,Occupational therapy assistants,52.2,63.4,11.2,21.5,,8.1,72300.0,Associate's degree,None,None
+31-2012,31-2012,direct,Occupational therapy aides,4.4,4.6,0.2,3.6,,0.6,39160.0,High school diploma or equivalent,None,Short-term on-the-job training
+31-2021,31-2021,direct,Physical therapist assistants,114.1,140.4,26.2,23.0,,18.5,68380.0,Associate's degree,None,None
+31-2022,31-2022,direct,Physical therapist aides,49.0,51.0,2.0,4.0,,6.4,35240.0,High school diploma or equivalent,None,Short-term on-the-job training
+31-9011,31-9011,direct,Massage therapists,155.4,179.1,23.7,15.3,35.6,20.4,58450.0,Postsecondary nondegree award,None,None
+31-9091,31-9091,direct,Dental assistants,388.6,417.4,28.8,7.4,0.1,53.0,48070.0,Postsecondary nondegree award,None,None
+31-9092,31-9092,direct,Medical assistants,833.9,941.5,107.6,12.9,0.2,109.7,45690.0,Postsecondary nondegree award,None,None
+31-9093,31-9093,direct,Medical equipment preparers,79.9,88.6,8.7,10.8,2.3,10.7,47700.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+31-9094,31-9094,direct,Medical transcriptionists,42.0,40.2,-1.9,-4.4,,6.2,40410.0,Postsecondary nondegree award,None,None
+31-9095,31-9095,direct,Pharmacy aides,39.2,39.0,-0.3,-0.7,,5.1,37680.0,High school diploma or equivalent,None,Short-term on-the-job training
+31-9096,31-9096,direct,Veterinary assistants and laboratory animal caretakers,132.1,144.2,12.0,9.1,,23.2,38150.0,High school diploma or equivalent,None,Short-term on-the-job training
+31-9097,31-9097,direct,Phlebotomists,143.9,153.7,9.8,6.8,,18.0,45230.0,Postsecondary nondegree award,None,None
+31-9099,31-9099,direct,"Healthcare support workers, all other",113.9,119.4,5.5,4.8,1.7,14.1,48430.0,High school diploma or equivalent,None,None
+33-1011,33-1011,direct,First-line supervisors of correctional officers,56.3,54.8,-1.4,-2.5,,3.7,77970.0,High school diploma or equivalent,Less than 5 years,None
+33-1012,33-1012,direct,First-line supervisors of police and detectives,160.2,165.4,5.2,3.3,,10.6,106040.0,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+33-1021,33-1021,direct,First-line supervisors of firefighting and prevention workers,101.6,105.4,3.8,3.7,,6.6,93530.0,Postsecondary nondegree award,Less than 5 years,Moderate-term on-the-job training
+33-1091,33-1091,direct,First-line supervisors of security workers,82.7,85.7,3.0,3.7,1.0,6.8,55940.0,High school diploma or equivalent,Less than 5 years,None
+33-1099,33-1099,direct,"First-line supervisors of protective service workers, all other",21.6,22.0,0.4,1.9,0.4,1.7,76400.0,High school diploma or equivalent,Less than 5 years,None
+33-2011,33-2011,direct,Firefighters,355.3,368.4,13.1,3.7,,26.8,59280.0,Postsecondary nondegree award,None,Long-term on-the-job training
+33-2021,33-2021,direct,Fire inspectors and investigators,14.7,15.3,0.6,4.2,,1.6,75920.0,Postsecondary nondegree award,5 years or more,Moderate-term on-the-job training
+33-2022,33-2022,direct,Forest fire inspectors and prevention specialists,3.0,3.4,0.4,13.1,,0.4,56870.0,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+33-3011,33-3011,direct,Bailiffs,18.0,17.7,-0.3,-1.9,,1.6,56600.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+33-3012,33-3012,direct,Correctional officers and jailers,397.8,368.2,-29.5,-7.4,,28.4,58940.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+33-3021,33-3021,direct,Detectives and criminal investigators,120.5,120.7,0.2,0.2,0.2,7.8,93790.0,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+33-3031,33-3031,direct,Fish and game wardens,6.2,5.8,-0.4,-5.7,,0.5,74060.0,Bachelor's degree,None,Moderate-term on-the-job training
+33-3041,33-3041,direct,Parking enforcement workers,9.4,9.3,-0.1,-1.1,,0.8,46730.0,High school diploma or equivalent,None,Short-term on-the-job training
+33-3051,33-3051,direct,Police and sheriff's patrol officers,693.2,717.3,24.2,3.5,,51.5,76210.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+33-3052,33-3052,direct,Transit and railroad police,4.4,4.5,0.1,3.2,,0.3,90230.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+33-9011,33-9011,direct,Animal control workers,13.8,14.3,0.6,4.0,10.2,1.5,45660.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+33-9021,33-9021,direct,Private detectives and investigators,39.5,41.7,2.2,5.5,9.8,3.2,51220.0,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+33-9031,33-9031,direct,Gambling surveillance officers and gambling investigators,9.8,9.6,-0.2,-1.8,,1.1,43370.0,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+33-9032,33-9032,direct,Security guards,1294.3,1305.6,11.3,0.9,0.7,156.0,38020.0,High school diploma or equivalent,None,Short-term on-the-job training
+33-9091,33-9091,direct,Crossing guards and flaggers,94.8,98.1,3.3,3.5,0.1,17.3,38100.0,No formal educational credential,None,Short-term on-the-job training
+33-9092,33-9092,direct,"Lifeguards, ski patrol, and other recreational protective service workers",162.0,170.8,8.9,5.5,,45.4,33580.0,No formal educational credential,None,Short-term on-the-job training
+33-9093,33-9093,direct,Transportation security screeners,53.5,51.2,-2.2,-4.2,,4.5,66770.0,High school diploma or equivalent,None,Short-term on-the-job training
+33-9094,33-9094,direct,School bus monitors,76.7,75.3,-1.4,-1.9,,13.4,35100.0,High school diploma or equivalent,None,Short-term on-the-job training
+33-9099,33-9099,direct,"Protective service workers, all other",82.1,84.6,2.4,3.0,,22.6,42540.0,High school diploma or equivalent,None,Short-term on-the-job training
+35-1011,35-1011,direct,Chefs and head cooks,220.3,234.7,14.4,6.6,6.8,25.2,62470.0,High school diploma or equivalent,5 years or more,None
+35-1012,35-1012,direct,First-line supervisors of food preparation and serving workers,1236.4,1303.5,67.1,5.4,0.8,171.5,44080.0,High school diploma or equivalent,Less than 5 years,None
+35-2011,35-2011,direct,"Cooks, fast food",640.5,644.1,3.6,0.6,,86.4,30890.0,No formal educational credential,None,Short-term on-the-job training
+35-2012,35-2012,direct,"Cooks, institution and cafeteria",454.0,466.6,12.6,2.8,,62.9,37450.0,No formal educational credential,None,Short-term on-the-job training
+35-2013,35-2013,direct,"Cooks, private household",35.4,37.2,1.8,5.1,79.7,5.0,47940.0,Postsecondary nondegree award,Less than 5 years,None
+35-2014,35-2014,direct,"Cooks, restaurant",1417.5,1588.8,171.4,12.1,,218.6,37390.0,No formal educational credential,Less than 5 years,Moderate-term on-the-job training
+35-2015,35-2015,direct,"Cooks, short order",138.7,131.5,-7.2,-5.2,,17.4,35880.0,No formal educational credential,None,Short-term on-the-job training
+35-2019,35-2019,direct,"Cooks, all other",19.7,20.8,1.0,5.2,,2.8,37690.0,No formal educational credential,None,Moderate-term on-the-job training
+35-2021,35-2021,direct,Food preparation workers,908.5,881.3,-27.2,-3.0,1.0,135.7,35320.0,No formal educational credential,None,Short-term on-the-job training
+35-3011,35-3011,direct,Bartenders,762.6,800.5,37.9,5.0,0.2,121.2,34340.0,No formal educational credential,None,Short-term on-the-job training
+35-3023,35-3023,direct,Fast food and counter workers,3855.9,4079.1,223.3,5.8,0.1,827.4,31200.0,No formal educational credential,None,Short-term on-the-job training
+35-3031,35-3031,direct,Waiters and waitresses,2284.4,2330.9,46.5,2.0,0.1,423.1,35230.0,No formal educational credential,None,Short-term on-the-job training
+35-3041,35-3041,direct,"Food servers, nonrestaurant",296.3,309.6,13.3,4.5,0.2,48.8,35360.0,No formal educational credential,None,Short-term on-the-job training
+35-9011,35-9011,direct,Dining room and cafeteria attendants and bartender helpers,546.6,575.5,28.9,5.3,0.1,95.3,33980.0,No formal educational credential,None,Short-term on-the-job training
+35-9021,35-9021,direct,Dishwashers,480.4,475.6,-4.8,-1.0,0.2,68.9,34810.0,No formal educational credential,None,Short-term on-the-job training
+35-9031,35-9031,direct,"Hosts and hostesses, restaurant, lounge, and coffee shop",444.2,459.5,15.3,3.4,2.0,107.1,31200.0,No formal educational credential,None,Short-term on-the-job training
+35-9099,35-9099,direct,"Food preparation and serving related workers, all other",85.1,89.7,4.7,5.5,,11.8,35840.0,No formal educational credential,None,Short-term on-the-job training
+37-1011,37-1011,direct,First-line supervisors of housekeeping and janitorial workers,265.2,273.6,8.4,3.2,31.0,30.8,49100.0,High school diploma or equivalent,Less than 5 years,None
+37-1012,37-1012,direct,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",243.3,253.0,9.7,4.0,46.8,23.9,58430.0,High school diploma or equivalent,Less than 5 years,None
+37-2011,37-2011,direct,"Janitors and cleaners, except maids and housekeeping cleaners",2432.6,2486.2,53.6,2.2,4.8,321.8,36840.0,No formal educational credential,None,Short-term on-the-job training
+37-2012,37-2012,direct,Maids and housekeeping cleaners,1332.1,1339.5,7.4,0.6,13.7,175.5,35510.0,No formal educational credential,None,Short-term on-the-job training
+37-2019,37-2019,direct,"Building cleaning workers, all other",18.6,19.0,0.4,2.0,6.2,2.5,44040.0,No formal educational credential,None,Short-term on-the-job training
+37-2021,37-2021,direct,Pest control workers,108.7,114.7,6.0,5.5,5.4,13.7,45250.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+37-3011,37-3011,direct,Landscaping and groundskeeping workers,1188.6,1244.2,55.6,4.7,20.2,149.5,39150.0,No formal educational credential,None,Short-term on-the-job training
+37-3012,37-3012,direct,"Pesticide handlers, sprayers, and applicators, vegetation",25.7,26.7,1.0,3.9,4.4,3.3,46340.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+37-3013,37-3013,direct,Tree trimmers and pruners,70.6,73.6,3.0,4.2,24.4,7.9,50960.0,High school diploma or equivalent,None,Short-term on-the-job training
+37-3019,37-3019,direct,"Grounds maintenance workers, all other",14.2,14.8,0.5,3.7,3.1,1.8,46860.0,No formal educational credential,None,Short-term on-the-job training
+39-1013,39-1013,direct,First-line supervisors of gambling services workers,27.2,28.1,1.0,3.5,2.7,2.6,63820.0,High school diploma or equivalent,Less than 5 years,None
+39-1014,39-1014,direct,"First-line supervisors of entertainment and recreation workers, except gambling services",109.3,115.1,5.8,5.3,3.1,10.6,48560.0,High school diploma or equivalent,Less than 5 years,None
+39-1022,39-1022,direct,First-line supervisors of personal service workers,122.5,130.2,7.7,6.3,3.7,12.0,48590.0,High school diploma or equivalent,Less than 5 years,None
+39-2011,39-2011,direct,Animal trainers,47.8,49.7,2.0,4.2,38.7,6.5,39990.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+39-2021,39-2021,direct,Animal caretakers,365.3,409.4,44.1,12.1,24.8,62.8,35360.0,High school diploma or equivalent,None,Short-term on-the-job training
+39-3011,39-3011,direct,Gambling dealers,88.9,91.9,3.0,3.4,4.1,13.3,34320.0,High school diploma or equivalent,None,Short-term on-the-job training
+39-3012,39-3012,direct,Gambling and sports book writers and runners,9.6,9.8,0.2,1.8,4.7,1.4,34980.0,High school diploma or equivalent,None,Short-term on-the-job training
+39-3019,39-3019,direct,"Gambling service workers, all other",15.3,15.9,0.6,4.2,4.3,2.3,36310.0,High school diploma or equivalent,None,Short-term on-the-job training
+39-3021,39-3021,direct,Motion picture projectionists,1.5,1.4,-0.1,-6.2,,0.3,38270.0,No formal educational credential,None,Short-term on-the-job training
+39-3031,39-3031,direct,"Ushers, lobby attendants, and ticket takers",124.5,125.6,1.1,0.9,,27.3,32910.0,No formal educational credential,None,Short-term on-the-job training
+39-3091,39-3091,direct,Amusement and recreation attendants,408.4,423.6,15.2,3.7,0.8,100.4,32150.0,No formal educational credential,None,Short-term on-the-job training
+39-3092,39-3092,direct,Costume attendants,6.6,7.0,0.4,5.9,0.8,1.7,50400.0,High school diploma or equivalent,None,Short-term on-the-job training
+39-3093,39-3093,direct,"Locker room, coatroom, and dressing room attendants",16.0,17.1,1.0,6.4,0.8,4.0,36300.0,High school diploma or equivalent,None,Short-term on-the-job training
+39-3099,39-3099,direct,"Entertainment attendants and related workers, all other",7.2,7.5,0.3,4.0,0.7,1.8,32640.0,High school diploma or equivalent,None,Short-term on-the-job training
+39-4011,39-4011,direct,Embalmers,3.9,4.0,0.0,0.7,,0.7,58780.0,Associate's degree,None,Long-term on-the-job training
+39-4012,39-4012,direct,Crematory operators,3.0,3.1,0.1,3.1,,0.5,43650.0,High school diploma or equivalent,None,Short-term on-the-job training
+39-4021,39-4021,direct,Funeral attendants,31.3,32.1,0.8,2.6,0.2,5.4,35680.0,High school diploma or equivalent,None,Short-term on-the-job training
+39-4031,39-4031,direct,"Morticians, undertakers, and funeral arrangers",26.7,27.5,0.8,3.0,5.2,3.0,55010.0,Associate's degree,None,Long-term on-the-job training
+39-5011,39-5011,direct,Barbers,75.8,78.3,2.5,3.3,79.9,6.9,38210.0,Postsecondary nondegree award,None,None
+39-5012,39-5012,direct,"Hairdressers, hairstylists, and cosmetologists",595.0,640.9,45.9,7.7,48.1,73.4,35790.0,Postsecondary nondegree award,None,None
+39-5091,39-5091,direct,"Makeup artists, theatrical and performance",4.3,4.6,0.3,6.1,48.1,0.6,97150.0,Postsecondary nondegree award,None,None
+39-5092,39-5092,direct,Manicurists and pedicurists,201.8,220.4,18.6,9.2,23.1,21.9,35760.0,Postsecondary nondegree award,None,None
+39-5093,39-5093,direct,Shampooers,15.4,16.2,0.9,5.6,46.7,2.2,32600.0,No formal educational credential,None,Short-term on-the-job training
+39-5094,39-5094,direct,Skincare specialists,104.2,113.3,9.1,8.8,29.2,14.2,45330.0,Postsecondary nondegree award,None,None
+39-6011,39-6011,direct,Baggage porters and bellhops,29.2,28.4,-0.9,-3.0,1.7,3.8,37080.0,High school diploma or equivalent,None,Short-term on-the-job training
+39-6012,39-6012,direct,Concierges,50.2,51.5,1.3,2.6,1.7,6.9,38950.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+39-7011,39-7010,via combined code,Tour and travel guides,62.2,66.1,3.9,6.3,9.2,11.9,38120.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+39-7012,39-7010,via combined code,Tour and travel guides,62.2,66.1,3.9,6.3,9.2,11.9,38120.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+39-9011,39-9011,direct,Childcare workers,1010.3,990.4,-19.9,-2.0,24.2,150.3,34980.0,High school diploma or equivalent,None,Short-term on-the-job training
+39-9031,39-9031,direct,Exercise trainers and group fitness instructors,388.4,416.9,28.5,7.3,14.8,68.0,47160.0,High school diploma or equivalent,None,Short-term on-the-job training
+39-9032,39-9032,direct,Recreation workers,346.9,361.9,15.0,4.3,0.2,67.0,36560.0,High school diploma or equivalent,None,Short-term on-the-job training
+39-9041,39-9041,direct,Residential advisors,94.1,97.4,3.3,3.5,3.0,16.5,42240.0,High school diploma or equivalent,None,Short-term on-the-job training
+39-9099,39-9099,direct,"Personal care and service workers, all other",94.6,100.2,5.6,5.9,30.4,14.4,41600.0,High school diploma or equivalent,None,Short-term on-the-job training
+41-1011,41-1011,direct,First-line supervisors of retail sales workers,1419.8,1367.4,-52.5,-3.7,21.1,113.5,48520.0,High school diploma or equivalent,Less than 5 years,None
+41-1012,41-1012,direct,First-line supervisors of non-retail sales workers,311.9,313.6,1.7,0.5,30.4,21.7,87520.0,High school diploma or equivalent,Less than 5 years,None
+41-2011,41-2011,direct,Cashiers,3106.3,2905.7,-200.6,-6.5,0.4,521.3,32880.0,No formal educational credential,None,Short-term on-the-job training
+41-2012,41-2012,direct,Gambling change persons and booth cashiers,22.0,21.6,-0.4,-1.9,,3.9,36220.0,No formal educational credential,None,Short-term on-the-job training
+41-2021,41-2021,direct,Counter and rental clerks,409.4,421.9,12.4,3.0,1.3,46.1,41300.0,No formal educational credential,None,Short-term on-the-job training
+41-2022,41-2022,direct,Parts salespersons,273.3,281.6,8.3,3.0,0.4,30.0,38630.0,No formal educational credential,None,Moderate-term on-the-job training
+41-2031,41-2031,direct,Retail salespersons,3998.1,3984.1,-14.0,-0.3,3.0,520.6,35410.0,No formal educational credential,None,Short-term on-the-job training
+41-3011,41-3011,direct,Advertising sales agents,99.3,92.2,-7.1,-7.2,7.7,7.8,64820.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+41-3021,41-3021,direct,Insurance sales agents,572.6,591.4,18.8,3.3,11.8,43.1,62280.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+41-3031,41-3031,direct,"Securities, commodities, and financial services sales agents",531.0,538.5,7.5,1.4,6.0,35.1,78660.0,Bachelor's degree,None,Moderate-term on-the-job training
+41-3041,41-3041,direct,Travel agents,61.5,61.7,0.1,0.2,12.0,5.9,50160.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+41-3091,41-3091,direct,"Sales representatives of services, except advertising, insurance, financial services, and travel",1272.7,1306.7,33.9,2.7,1.2,115.7,69990.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+41-4011,41-4011,direct,"Sales representatives, wholesale and manufacturing, technical and scientific products",292.0,295.5,3.5,1.2,2.4,23.6,104920.0,Bachelor's degree,None,Moderate-term on-the-job training
+41-4012,41-4012,direct,"Sales representatives, wholesale and manufacturing, except technical and scientific products",1279.4,1268.2,-11.2,-0.9,2.4,99.8,72080.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+41-9011,41-9011,direct,Demonstrators and product promoters,70.4,70.5,0.1,0.2,9.0,11.4,39320.0,No formal educational credential,None,Short-term on-the-job training
+41-9012,41-9012,direct,Models,4.2,4.1,-0.1,-2.1,7.6,0.7,48470.0,No formal educational credential,None,None
+41-9021,41-9021,direct,Real estate brokers,103.5,104.3,0.8,0.8,54.9,7.8,73220.0,High school diploma or equivalent,Less than 5 years,None
+41-9022,41-9022,direct,Real estate sales agents,427.0,434.5,7.4,1.7,54.3,32.6,52830.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+41-9031,41-9031,direct,Sales engineers,51.6,53.0,1.4,2.8,,3.8,124900.0,Bachelor's degree,None,Moderate-term on-the-job training
+41-9041,41-9041,direct,Telemarketers,60.9,47.8,-13.0,-21.4,2.9,5.8,35450.0,No formal educational credential,None,Short-term on-the-job training
+41-9091,41-9091,direct,"Door-to-door sales workers, news and street vendors, and related workers",50.9,45.6,-5.3,-10.4,94.6,4.8,41380.0,No formal educational credential,None,Short-term on-the-job training
+41-9099,41-9099,direct,"Sales and related workers, all other",115.3,116.6,1.3,1.1,16.3,13.1,48280.0,High school diploma or equivalent,None,None
+43-1011,43-1011,direct,First-line supervisors of office and administrative support workers,1506.1,1507.0,0.9,0.1,1.1,127.4,69500.0,High school diploma or equivalent,Less than 5 years,None
+43-2011,43-2011,direct,"Switchboard operators, including answering service",35.4,26.2,-9.2,-26.0,1.6,3.1,38630.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-2021,43-2021,direct,Telephone operators,3.5,2.5,-1.0,-27.6,,0.2,41740.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-2099,43-2099,direct,"Communications equipment operators, all other",1.2,1.3,0.0,1.0,,0.1,54680.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-3011,43-3011,direct,Bill and account collectors,160.2,143.4,-16.7,-10.4,0.3,11.2,47030.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+43-3021,43-3021,direct,Billing and posting clerks,418.0,417.7,-0.2,-0.1,1.5,37.0,48500.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+43-3031,43-3031,direct,"Bookkeeping, accounting, and auditing clerks",1532.4,1446.8,-85.6,-5.6,5.6,144.1,50670.0,"Some college, no degree",None,Moderate-term on-the-job training
+43-3041,43-3041,direct,Gambling cage workers,15.0,14.6,-0.5,-3.1,2.1,1.2,37580.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-3051,43-3051,direct,Payroll and timekeeping clerks,159.6,134.3,-25.4,-15.9,1.8,11.4,58260.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+43-3061,43-3061,direct,Procurement clerks,56.9,52.3,-4.6,-8.1,,3.7,50580.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+43-3071,43-3071,direct,Tellers,339.2,294.5,-44.7,-13.2,,26.8,43030.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-3099,43-3099,direct,"Financial clerks, all other",38.5,38.5,0.0,0.0,3.8,3.4,53830.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-4011,43-4011,direct,Brokerage clerks,36.9,34.1,-2.8,-7.6,1.3,3.4,65750.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+43-4021,43-4021,direct,Correspondence clerks,4.8,4.5,-0.3,-5.6,4.3,0.5,46800.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-4031,43-4031,direct,"Court, municipal, and license clerks",187.0,193.3,6.3,3.4,0.4,17.1,48700.0,High school diploma or equivalent,None,Long-term on-the-job training
+43-4041,43-4041,direct,"Credit authorizers, checkers, and clerks",12.2,11.3,-0.9,-7.4,1.0,0.9,50080.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+43-4051,43-4051,direct,Customer service representatives,2666.0,2524.1,-141.8,-5.3,0.5,289.5,44770.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-4061,43-4061,direct,"Eligibility interviewers, government programs",162.8,165.3,2.6,1.6,,12.7,54210.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+43-4071,43-4071,direct,File clerks,76.2,64.2,-12.0,-15.8,1.4,5.6,43600.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-4081,43-4081,direct,"Hotel, motel, and resort desk clerks",264.6,269.5,4.9,1.8,,35.5,35070.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-4111,43-4111,direct,"Interviewers, except eligibility and loan",153.6,137.6,-16.0,-10.4,0.5,13.2,45920.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-4121,43-4121,direct,"Library assistants, clerical",89.5,83.8,-5.7,-6.4,,12.3,36910.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-4131,43-4131,direct,Loan interviewers and clerks,169.1,165.0,-4.1,-2.4,0.4,10.5,50020.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-4141,43-4141,direct,New accounts clerks,37.9,35.5,-2.5,-6.5,,2.3,47670.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+43-4151,43-4151,direct,Order clerks,78.9,65.1,-13.8,-17.5,4.8,6.3,46170.0,"Some college, no degree",None,Short-term on-the-job training
+43-4161,43-4161,direct,"Human resources assistants, except payroll and timekeeping",96.5,90.5,-6.0,-6.2,0.9,7.9,50610.0,Associate's degree,None,None
+43-4171,43-4171,direct,Receptionists and information clerks,947.5,931.6,-16.0,-1.7,0.7,105.1,38010.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-4181,43-4181,direct,Reservation and transportation ticket agents and travel clerks,120.1,123.1,3.0,2.5,0.9,11.8,44390.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-4199,43-4199,direct,"Information and record clerks, all other",143.1,144.3,1.2,0.8,0.4,15.0,49500.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-5011,43-5011,direct,Cargo and freight agents,100.3,106.4,6.2,6.2,0.8,9.0,52260.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-5021,43-5021,direct,Couriers and messengers,228.9,247.1,18.2,8.0,69.9,23.8,39200.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-5031,43-5031,direct,Public safety telecommunicators,105.6,109.5,3.9,3.7,0.1,9.0,53040.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+43-5032,43-5032,direct,"Dispatchers, except police, fire, and ambulance",203.5,202.1,-1.5,-0.7,1.1,16.0,50340.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+43-5041,43-5041,direct,"Meter readers, utilities",19.7,17.6,-2.1,-10.5,,1.4,48150.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-5051,43-5051,direct,Postal service clerks,70.9,70.7,-0.2,-0.3,,5.3,62130.0,No formal educational credential,None,Short-term on-the-job training
+43-5052,43-5052,direct,Postal service mail carriers,316.4,315.5,-0.9,-0.3,,19.6,60550.0,No formal educational credential,None,Short-term on-the-job training
+43-5053,43-5053,direct,"Postal service mail sorters, processors, and processing machine operators",101.2,95.9,-5.3,-5.3,,7.3,58470.0,No formal educational credential,None,Short-term on-the-job training
+43-5061,43-5061,direct,"Production, planning, and expediting clerks",392.1,387.1,-5.0,-1.3,0.2,32.6,59650.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+43-5071,43-5071,direct,"Shipping, receiving, and inventory clerks",827.7,765.0,-62.8,-7.6,0.9,61.3,45260.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-5111,43-5111,direct,"Weighers, measurers, checkers, and samplers, recordkeeping",53.6,51.0,-2.6,-4.8,0.5,4.7,46380.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-6011,43-6011,direct,Executive secretaries and executive administrative assistants,489.3,489.2,-0.1,0.0,0.7,43.3,76590.0,High school diploma or equivalent,Less than 5 years,None
+43-6012,43-6012,direct,Legal secretaries and administrative assistants,157.6,149.3,-8.3,-5.2,0.2,18.1,55570.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+43-6013,43-6013,direct,Medical secretaries and administrative assistants,979.0,1026.1,47.1,4.8,0.2,89.2,45930.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+43-6014,43-6014,direct,"Secretaries and administrative assistants, except legal, medical, and executive",1889.8,1775.7,-114.1,-6.0,1.5,163.9,47540.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-9021,43-9021,direct,Data entry keyers,131.8,98.2,-33.6,-25.5,1.6,7.7,41340.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-9022,43-9022,direct,Word processors and typists,40.4,26.5,-13.9,-34.4,10.9,1.9,49280.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-9031,43-9031,direct,Desktop publishers,4.6,4.0,-0.7,-14.5,19.8,0.3,55290.0,Associate's degree,None,Short-term on-the-job training
+43-9041,43-9041,direct,Insurance claims and policy processing clerks,239.1,234.7,-4.4,-1.9,0.4,17.5,49230.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+43-9051,43-9051,direct,"Mail clerks and mail machine operators, except postal service",57.8,53.6,-4.1,-7.2,,4.7,39280.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-9061,43-9061,direct,"Office clerks, general",2600.0,2443.7,-156.2,-6.0,0.7,249.0,45010.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-9071,43-9071,direct,"Office machine operators, except computer",25.8,21.9,-3.8,-14.9,,2.1,40960.0,High school diploma or equivalent,None,Short-term on-the-job training
+43-9081,43-9081,direct,Proofreaders and copy markers,8.5,8.5,-0.1,-0.9,25.6,1.1,51120.0,Bachelor's degree,None,None
+43-9111,43-9111,direct,Statistical assistants,5.1,5.0,-0.1,-1.8,,0.5,50330.0,Bachelor's degree,None,None
+43-9199,43-9199,direct,"Office and administrative support workers, all other",231.1,214.1,-17.0,-7.3,11.8,19.1,45670.0,High school diploma or equivalent,None,Short-term on-the-job training
+45-1011,45-1011,direct,"First-line supervisors of farming, fishing, and forestry workers",57.6,59.8,2.2,3.8,6.3,7.2,59320.0,High school diploma or equivalent,Less than 5 years,None
+45-2011,45-2011,direct,Agricultural inspectors,17.8,18.2,0.4,2.3,,2.5,49940.0,Bachelor's degree,None,Moderate-term on-the-job training
+45-2021,45-2021,direct,Animal breeders,6.9,7.1,0.2,3.0,3.5,1.0,51130.0,High school diploma or equivalent,None,Short-term on-the-job training
+45-2041,45-2041,direct,"Graders and sorters, agricultural products",45.4,43.8,-1.5,-3.4,1.0,5.8,35730.0,No formal educational credential,None,Short-term on-the-job training
+45-2091,45-2091,direct,Agricultural equipment operators,66.9,72.6,5.7,8.6,7.6,10.1,41730.0,No formal educational credential,None,Moderate-term on-the-job training
+45-2092,45-2092,direct,"Farmworkers and laborers, crop, nursery, and greenhouse",546.8,533.6,-13.2,-2.4,8.9,72.5,35660.0,No formal educational credential,None,Short-term on-the-job training
+45-2093,45-2093,direct,"Farmworkers, farm, ranch, and aquacultural animals",202.1,195.7,-6.4,-3.2,2.8,26.6,36670.0,No formal educational credential,None,Short-term on-the-job training
+45-2099,45-2099,direct,"Agricultural workers, all other",9.3,9.7,0.4,3.8,5.1,1.3,39850.0,No formal educational credential,None,Short-term on-the-job training
+45-3031,45-3031,direct,Fishing and hunting workers,28.2,27.0,-1.2,-4.2,32.2,3.3,,No formal educational credential,None,Moderate-term on-the-job training
+45-4011,45-4011,direct,Forest and conservation workers,14.7,14.5,-0.2,-1.5,26.7,2.2,43680.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+45-4021,45-4021,direct,Fallers,4.3,3.9,-0.4,-9.9,30.4,0.5,52100.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+45-4022,45-4022,direct,Logging equipment operators,29.3,28.2,-1.1,-3.8,30.3,3.7,49740.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+45-4023,45-4023,direct,Log graders and scalers,4.4,4.3,-0.1,-2.2,29.5,0.6,46330.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+45-4029,45-4029,direct,"Logging workers, all other",2.4,2.2,-0.2,-7.6,30.3,0.3,50840.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+47-1011,47-1011,direct,First-line supervisors of construction trades and extraction workers,913.3,959.4,46.1,5.0,11.2,67.0,79920.0,High school diploma or equivalent,5 years or more,None
+47-2011,47-2011,direct,Boilermakers,10.2,10.1,-0.2,-1.8,,0.7,76410.0,High school diploma or equivalent,None,Apprenticeship
+47-2021,47-2021,direct,Brickmasons and blockmasons,62.4,63.1,0.7,1.1,17.5,4.1,62120.0,High school diploma or equivalent,None,Apprenticeship
+47-2022,47-2022,direct,Stonemasons,9.3,8.8,-0.5,-5.4,17.6,0.5,57390.0,High school diploma or equivalent,None,Apprenticeship
+47-2031,47-2031,direct,Carpenters,889.7,924.7,35.0,3.9,25.1,62.8,60580.0,High school diploma or equivalent,None,Apprenticeship
+47-2041,47-2041,direct,Carpet installers,17.4,14.5,-2.8,-16.4,21.0,0.7,50340.0,No formal educational credential,None,Short-term on-the-job training
+47-2042,47-2042,direct,"Floor layers, except carpet, wood, and hard tiles",29.8,32.4,2.7,9.0,21.2,2.2,56460.0,No formal educational credential,None,Moderate-term on-the-job training
+47-2043,47-2043,direct,Floor sanders and finishers,4.7,4.7,0.1,1.4,21.1,0.3,50440.0,No formal educational credential,None,Moderate-term on-the-job training
+47-2044,47-2044,direct,Tile and stone setters,45.2,49.6,4.4,9.8,21.1,3.3,55690.0,No formal educational credential,None,Long-term on-the-job training
+47-2051,47-2051,direct,Cement masons and concrete finishers,204.8,208.1,3.3,1.6,1.5,13.6,57020.0,No formal educational credential,None,Moderate-term on-the-job training
+47-2053,47-2053,direct,Terrazzo workers and finishers,1.2,1.0,-0.2,-13.0,,0.1,76170.0,High school diploma or equivalent,None,Apprenticeship
+47-2061,47-2061,direct,Construction laborers,1489.3,1598.6,109.3,7.3,26.9,120.0,47120.0,No formal educational credential,None,Short-term on-the-job training
+47-2071,47-2071,direct,"Paving, surfacing, and tamping equipment operators",42.3,41.9,-0.4,-0.9,2.4,3.1,53340.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+47-2072,47-2072,direct,Pile driver operators,2.3,2.2,-0.1,-5.7,2.7,0.2,73300.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+47-2073,47-2073,direct,Operating engineers and other construction equipment operators,489.5,511.8,22.3,4.6,2.3,39.2,59850.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+47-2081,47-2081,direct,Drywall and ceiling tile installers,102.2,104.7,2.5,2.5,19.4,6.6,58930.0,No formal educational credential,None,Moderate-term on-the-job training
+47-2082,47-2082,direct,Tapers,15.8,15.5,-0.3,-1.6,19.4,0.9,68270.0,No formal educational credential,None,Moderate-term on-the-job training
+47-2111,47-2111,direct,Electricians,821.0,896.9,75.9,9.2,7.1,72.7,63190.0,High school diploma or equivalent,None,Apprenticeship
+47-2121,47-2121,direct,Glaziers,59.2,60.3,1.1,1.9,1.0,3.9,57080.0,High school diploma or equivalent,None,Apprenticeship
+47-2131,47-2131,direct,"Insulation workers, floor, ceiling, and wall",45.1,46.2,1.1,2.4,1.8,3.0,49120.0,No formal educational credential,None,Short-term on-the-job training
+47-2132,47-2132,direct,"Insulation workers, mechanical",26.7,28.1,1.4,5.1,1.8,1.8,58340.0,High school diploma or equivalent,None,Apprenticeship
+47-2141,47-2141,direct,"Painters, construction and maintenance",326.9,336.7,9.8,3.0,31.3,24.9,49400.0,No formal educational credential,None,Moderate-term on-the-job training
+47-2142,47-2142,direct,Paperhangers,2.3,2.4,0.1,4.3,32.1,0.2,52140.0,No formal educational credential,None,Long-term on-the-job training
+47-2151,47-2151,direct,Pipelayers,33.2,32.2,-1.0,-3.1,,2.1,49000.0,No formal educational credential,None,Short-term on-the-job training
+47-2152,47-2152,direct,"Plumbers, pipefitters, and steamfitters",510.6,545.2,34.5,6.8,8.0,42.0,63800.0,High school diploma or equivalent,None,Apprenticeship
+47-2161,47-2161,direct,Plasterers and stucco masons,22.9,23.6,0.6,2.8,16.8,1.5,57660.0,No formal educational credential,None,Long-term on-the-job training
+47-2171,47-2171,direct,Reinforcing iron and rebar workers,16.6,15.7,-0.9,-5.3,17.6,1.0,58970.0,High school diploma or equivalent,None,Apprenticeship
+47-2181,47-2181,direct,Roofers,166.9,175.6,8.8,5.3,19.8,12.0,55440.0,No formal educational credential,None,Moderate-term on-the-job training
+47-2211,47-2211,direct,Sheet metal workers,131.1,134.4,3.3,2.5,8.4,9.8,61800.0,High school diploma or equivalent,None,Apprenticeship
+47-2221,47-2221,direct,Structural iron and steel workers,68.3,70.4,2.1,3.1,,5.9,62780.0,High school diploma or equivalent,None,Apprenticeship
+47-2231,47-2231,direct,Solar photovoltaic installers,31.1,42.4,11.3,36.5,,4.2,53140.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+47-3011,47-3011,direct,"Helpers--brickmasons, blockmasons, stonemasons, and tile and marble setters",14.1,12.5,-1.7,-11.7,1.7,1.1,47550.0,No formal educational credential,None,Short-term on-the-job training
+47-3012,47-3012,direct,Helpers--carpenters,21.9,21.5,-0.4,-1.7,1.7,2.0,43780.0,No formal educational credential,None,Short-term on-the-job training
+47-3013,47-3013,direct,Helpers--electricians,65.0,65.4,0.4,0.6,1.7,6.1,42670.0,High school diploma or equivalent,None,Short-term on-the-job training
+47-3014,47-3014,direct,"Helpers--painters, paperhangers, plasterers, and stucco masons",7.6,7.7,0.1,1.5,1.7,0.7,40470.0,No formal educational credential,None,Short-term on-the-job training
+47-3015,47-3015,direct,"Helpers--pipelayers, plumbers, pipefitters, and steamfitters",45.3,46.4,1.1,2.4,1.7,4.4,42360.0,High school diploma or equivalent,None,Short-term on-the-job training
+47-3016,47-3016,direct,Helpers--roofers,6.1,6.1,0.0,-0.1,1.7,0.6,44160.0,No formal educational credential,None,Short-term on-the-job training
+47-3019,47-3019,direct,"Helpers, construction trades, all other",25.2,24.9,-0.3,-1.0,1.6,2.3,42670.0,No formal educational credential,None,Short-term on-the-job training
+47-4011,47-4011,direct,Construction and building inspectors,153.9,153.9,0.0,0.0,3.3,14.8,74690.0,High school diploma or equivalent,5 years or more,Moderate-term on-the-job training
+47-4021,47-4021,direct,Elevator and escalator installers and repairers,24.7,26.1,1.4,5.7,,1.9,109910.0,High school diploma or equivalent,None,Apprenticeship
+47-4031,47-4031,direct,Fence erectors,30.6,32.3,1.7,5.6,21.0,2.5,47980.0,No formal educational credential,None,Moderate-term on-the-job training
+47-4041,47-4041,direct,Hazardous materials removal workers,52.7,53.5,0.8,1.5,0.8,4.3,49450.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+47-4051,47-4051,direct,Highway maintenance workers,161.8,167.3,5.5,3.4,1.0,11.8,50260.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+47-4061,47-4061,direct,Rail-track laying and maintenance equipment operators,17.4,17.7,0.3,1.5,,1.2,70070.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+47-4071,47-4071,direct,Septic tank servicers and sewer pipe cleaners,31.9,34.4,2.5,7.8,3.1,2.8,49880.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+47-4091,47-4090,via combined code,Miscellaneous construction and related workers,29.5,30.6,1.1,3.9,3.7,2.4,49910.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+47-4099,47-4090,via combined code,Miscellaneous construction and related workers,29.5,30.6,1.1,3.9,3.7,2.4,49910.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+47-5011,47-5011,direct,"Derrick operators, oil and gas",10.7,10.9,0.2,1.6,0.5,0.9,58620.0,No formal educational credential,Less than 5 years,Short-term on-the-job training
+47-5012,47-5012,direct,"Rotary drill operators, oil and gas",12.7,12.9,0.1,0.8,0.5,1.1,67890.0,No formal educational credential,Less than 5 years,Moderate-term on-the-job training
+47-5013,47-5013,direct,"Service unit operators, oil and gas",43.8,44.3,0.5,1.1,0.5,3.8,58160.0,No formal educational credential,Less than 5 years,Moderate-term on-the-job training
+47-5022,47-5022,direct,"Excavating and loading machine and dragline operators, surface mining",34.7,35.0,0.4,1.0,,2.4,57430.0,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+47-5023,47-5023,direct,"Earth drillers, except oil and gas",19.5,20.2,0.7,3.6,,1.4,60190.0,High school diploma or equivalent,Less than 5 years,Long-term on-the-job training
+47-5032,47-5032,direct,"Explosives workers, ordnance handling experts, and blasters",5.2,5.2,0.0,0.0,,0.4,61390.0,High school diploma or equivalent,Less than 5 years,Long-term on-the-job training
+47-5041,47-5041,direct,Continuous mining machine operators,14.0,14.4,0.4,3.2,,1.4,61810.0,No formal educational credential,None,Moderate-term on-the-job training
+47-5043,47-5043,direct,"Roof bolters, mining",2.2,1.8,-0.4,-18.9,,0.1,78540.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+47-5044,47-5044,direct,"Loading and moving machine operators, underground mining",5.9,5.0,-0.9,-15.8,,0.4,74500.0,No formal educational credential,None,Short-term on-the-job training
+47-5049,47-5049,direct,"Underground mining machine operators, all other",3.2,3.1,0.0,-1.0,,0.3,70130.0,No formal educational credential,None,Moderate-term on-the-job training
+47-5051,47-5051,direct,"Rock splitters, quarry",3.5,3.7,0.2,5.8,5.4,0.4,48740.0,No formal educational credential,None,Short-term on-the-job training
+47-5071,47-5071,direct,"Roustabouts, oil and gas",45.5,47.1,1.7,3.6,0.5,4.1,46960.0,No formal educational credential,None,Moderate-term on-the-job training
+47-5081,47-5081,direct,Helpers--extraction workers,7.1,7.2,0.1,1.7,5.5,0.7,47730.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+47-5099,47-5099,direct,"Extraction workers, all other",5.9,6.1,0.2,3.4,5.4,0.6,57010.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+49-1011,49-1011,direct,"First-line supervisors of mechanics, installers, and repairers",629.0,654.5,25.5,4.1,0.5,48.9,79860.0,High school diploma or equivalent,Less than 5 years,None
+49-2011,49-2011,direct,"Computer, automated teller, and office machine repairers",72.1,69.9,-2.1,-3.0,8.6,6.1,47810.0,"Some college, no degree",None,Short-term on-the-job training
+49-2021,49-2021,direct,"Radio, cellular, and tower equipment installers and repairers",11.3,11.4,0.1,1.2,0.7,1.0,63520.0,Associate's degree,None,Moderate-term on-the-job training
+49-2022,49-2022,direct,"Telecommunications equipment installers and repairers, except line installers",143.1,138.4,-4.7,-3.3,0.8,11.3,63890.0,Postsecondary nondegree award,None,Moderate-term on-the-job training
+49-2091,49-2091,direct,Avionics technicians,19.8,21.6,1.9,9.4,4.2,1.7,82280.0,Postsecondary nondegree award,None,None
+49-2092,49-2092,direct,"Electric motor, power tool, and related repairers",16.1,16.8,0.7,4.4,3.4,1.4,56210.0,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+49-2093,49-2093,direct,"Electrical and electronics installers and repairers, transportation equipment",6.6,6.9,0.4,5.4,,0.5,84890.0,Postsecondary nondegree award,None,Moderate-term on-the-job training
+49-2094,49-2094,direct,"Electrical and electronics repairers, commercial and industrial equipment",65.5,65.7,0.2,0.3,,4.7,74090.0,Postsecondary nondegree award,None,Long-term on-the-job training
+49-2095,49-2095,direct,"Electrical and electronics repairers, powerhouse, substation, and relay",20.9,22.9,2.0,9.7,,1.8,103020.0,Postsecondary nondegree award,Less than 5 years,Moderate-term on-the-job training
+49-2096,49-2096,direct,"Electronic equipment installers and repairers, motor vehicles",8.6,7.4,-1.3,-14.5,,0.4,48420.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+49-2097,49-2097,direct,Audiovisual equipment installers and repairers,22.4,23.4,1.1,4.8,10.1,2.2,52600.0,Postsecondary nondegree award,None,Short-term on-the-job training
+49-2098,49-2098,direct,Security and fire alarm systems installers,86.3,92.1,5.9,6.8,0.9,8.5,60070.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+49-3011,49-3011,direct,Aircraft mechanics and service technicians,140.0,147.6,7.5,5.4,0.8,11.4,79870.0,Postsecondary nondegree award,None,None
+49-3021,49-3021,direct,Automotive body and related repairers,163.2,169.3,6.1,3.7,8.5,12.6,54890.0,High school diploma or equivalent,None,Long-term on-the-job training
+49-3022,49-3022,direct,Automotive glass installers and repairers,22.6,23.9,1.3,5.7,10.2,1.3,47630.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+49-3023,49-3023,direct,Automotive service technicians and mechanics,825.8,866.7,40.9,5.0,14.6,66.2,50620.0,Postsecondary nondegree award,None,Short-term on-the-job training
+49-3031,49-3031,direct,Bus and truck mechanics and diesel engine specialists,316.0,327.4,11.4,3.6,5.9,24.4,61770.0,High school diploma or equivalent,None,Long-term on-the-job training
+49-3041,49-3041,direct,Farm equipment mechanics and service technicians,41.9,46.4,4.5,10.7,1.8,3.7,56550.0,High school diploma or equivalent,None,Long-term on-the-job training
+49-3042,49-3042,direct,"Mobile heavy equipment mechanics, except engines",180.3,192.5,12.1,6.7,1.8,15.0,65510.0,High school diploma or equivalent,None,Long-term on-the-job training
+49-3043,49-3043,direct,Rail car repairers,20.1,20.6,0.5,2.6,1.9,1.6,67530.0,High school diploma or equivalent,None,Long-term on-the-job training
+49-3051,49-3051,direct,Motorboat mechanics and service technicians,25.0,26.2,1.2,4.9,7.3,2.6,57550.0,High school diploma or equivalent,None,Long-term on-the-job training
+49-3052,49-3052,direct,Motorcycle mechanics,14.2,14.5,0.3,2.1,7.5,1.4,48580.0,Postsecondary nondegree award,None,Short-term on-the-job training
+49-3053,49-3053,direct,Outdoor power equipment and other small engine mechanics,38.3,39.2,0.9,2.3,7.2,3.8,47880.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+49-3091,49-3091,direct,Bicycle repairers,12.2,11.5,-0.7,-5.7,2.5,1.2,42780.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+49-3092,49-3092,direct,Recreational vehicle service technicians,17.5,19.2,1.7,9.7,2.5,2.2,52000.0,High school diploma or equivalent,None,Long-term on-the-job training
+49-3093,49-3093,direct,Tire repairers and changers,112.2,116.0,3.8,3.4,2.4,12.9,37710.0,High school diploma or equivalent,None,Short-term on-the-job training
+49-9011,49-9011,direct,Mechanical door repairers,28.4,30.3,1.8,6.4,3.9,2.1,55720.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+49-9012,49-9012,direct,"Control and valve installers and repairers, except mechanical door",50.4,52.6,2.2,4.3,3.2,3.6,74340.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+49-9021,49-9021,direct,"Heating, air conditioning, and refrigeration mechanics and installers",440.9,489.1,48.2,10.9,6.3,40.6,61010.0,Postsecondary nondegree award,None,Long-term on-the-job training
+49-9031,49-9031,direct,Home appliance repairers,40.5,41.3,0.8,1.9,20.3,2.8,50990.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+49-9041,49-9041,direct,Industrial machinery mechanics,446.9,526.6,79.7,17.8,1.3,44.4,64520.0,High school diploma or equivalent,None,Long-term on-the-job training
+49-9043,49-9043,direct,"Maintenance workers, machinery",59.7,58.6,-1.2,-1.9,0.3,4.4,60850.0,High school diploma or equivalent,None,Long-term on-the-job training
+49-9044,49-9044,direct,Millwrights,40.7,41.0,0.4,0.9,,3.2,65700.0,High school diploma or equivalent,None,Apprenticeship
+49-9045,49-9045,direct,"Refractory materials repairers, except brickmasons",1.1,0.9,-0.2,-13.7,,0.1,61290.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+49-9051,49-9051,direct,Electrical power-line installers and repairers,131.9,145.5,13.6,10.3,0.3,10.9,95320.0,High school diploma or equivalent,None,Long-term on-the-job training
+49-9052,49-9052,direct,Telecommunications line installers and repairers,103.4,99.9,-3.5,-3.4,4.9,8.0,74330.0,High school diploma or equivalent,None,Long-term on-the-job training
+49-9061,49-9061,direct,Camera and photographic equipment repairers,1.8,1.5,-0.3,-15.5,7.3,0.1,52720.0,High school diploma or equivalent,None,Long-term on-the-job training
+49-9062,49-9062,direct,Medical equipment repairers,71.8,80.9,9.1,12.6,8.5,8.2,61660.0,Associate's degree,None,Moderate-term on-the-job training
+49-9063,49-9063,direct,Musical instrument repairers and tuners,6.0,6.1,0.1,1.9,8.4,0.6,46420.0,High school diploma or equivalent,None,Apprenticeship
+49-9064,49-9064,direct,Watch and clock repairers,1.4,1.4,0.0,-0.3,8.8,0.1,67230.0,High school diploma or equivalent,None,Long-term on-the-job training
+49-9069,49-9069,direct,"Precision instrument and equipment repairers, all other",10.2,10.5,0.3,2.5,6.9,1.0,68990.0,High school diploma or equivalent,None,Long-term on-the-job training
+49-9071,49-9071,direct,"Maintenance and repair workers, general",1621.8,1690.5,68.6,4.2,0.9,148.7,49590.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+49-9081,49-9081,direct,Wind turbine service technicians,11.8,15.3,3.5,29.5,14.7,1.5,64120.0,Postsecondary nondegree award,None,Long-term on-the-job training
+49-9091,49-9091,direct,"Coin, vending, and amusement machine servicers and repairers",34.7,33.5,-1.2,-3.4,23.4,3.8,47450.0,High school diploma or equivalent,None,Short-term on-the-job training
+49-9092,49-9092,direct,Commercial divers,4.0,4.2,0.2,4.8,14.8,0.4,72990.0,Postsecondary nondegree award,None,Moderate-term on-the-job training
+49-9094,49-9094,direct,Locksmiths and safe repairers,18.7,16.5,-2.2,-11.7,18.5,1.2,51320.0,High school diploma or equivalent,None,Long-term on-the-job training
+49-9095,49-9095,direct,Manufactured building and mobile home installers,3.5,3.7,0.2,5.8,14.9,0.3,45990.0,High school diploma or equivalent,None,Short-term on-the-job training
+49-9096,49-9096,direct,Riggers,22.5,23.4,0.9,3.9,,1.7,62640.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+49-9097,49-9097,direct,Signal and track switch repairers,8.7,8.9,0.2,1.8,13.7,0.8,92460.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+49-9098,49-9098,direct,"Helpers--installation, maintenance, and repair workers",97.1,102.2,5.1,5.3,1.3,13.6,39630.0,High school diploma or equivalent,None,Short-term on-the-job training
+49-9099,49-9099,direct,"Installation, maintenance, and repair workers, all other",205.2,210.6,5.4,2.6,13.6,18.3,49230.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-1011,51-1011,direct,First-line supervisors of production and operating workers,679.9,692.3,12.4,1.8,0.7,61.0,74450.0,High school diploma or equivalent,Less than 5 years,None
+51-2011,51-2011,direct,"Aircraft structure, surfaces, rigging, and systems assemblers",34.4,32.5,-1.9,-5.6,0.6,3.1,65380.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-2021,51-2021,direct,"Coil winders, tapers, and finishers",12.9,12.4,-0.5,-4.0,,1.2,48220.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-2022,51-2028,via combined code,"Electrical, electronic, and electromechanical assemblers, except coil winders, tapers, and finishers",246.3,258.7,12.4,5.0,0.0,25.9,45850.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-2023,51-2028,via combined code,"Electrical, electronic, and electromechanical assemblers, except coil winders, tapers, and finishers",246.3,258.7,12.4,5.0,0.0,25.9,45850.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-2031,51-2031,direct,Engine and other machine assemblers,33.5,27.8,-5.7,-17.0,,2.1,53710.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-2041,51-2041,direct,Structural metal fabricators and fitters,52.3,49.0,-3.2,-6.2,,4.8,51330.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-2051,51-2051,direct,Fiberglass laminators and fabricators,16.3,17.0,0.8,4.6,0.6,1.7,46880.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-2061,51-2061,direct,Timing device assemblers and adjusters,0.2,0.2,0.0,-6.1,,0.0,62620.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-2092,51-2090,via combined code,Miscellaneous assemblers and fabricators,1403.5,1418.4,14.9,1.1,0.6,138.7,44650.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-2099,51-2090,via combined code,Miscellaneous assemblers and fabricators,1403.5,1418.4,14.9,1.1,0.6,138.7,44650.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-3011,51-3011,direct,Bakers,262.4,276.9,14.5,5.5,10.1,36.5,37160.0,No formal educational credential,None,Moderate-term on-the-job training
+51-3021,51-3021,direct,Butchers and meat cutters,138.4,141.7,3.3,2.4,1.2,15.1,40140.0,No formal educational credential,None,Moderate-term on-the-job training
+51-3022,51-3022,direct,"Meat, poultry, and fish cutters and trimmers",149.8,158.3,8.5,5.7,1.2,17.0,38300.0,No formal educational credential,None,Short-term on-the-job training
+51-3023,51-3023,direct,Slaughterers and meat packers,71.2,72.6,1.5,2.0,1.2,7.7,40130.0,No formal educational credential,None,Short-term on-the-job training
+51-3091,51-3091,direct,"Food and tobacco roasting, baking, and drying machine operators and tenders",21.6,21.7,0.1,0.4,8.3,2.5,44810.0,No formal educational credential,None,Moderate-term on-the-job training
+51-3092,51-3092,direct,Food batchmakers,176.8,188.2,11.4,6.5,1.7,23.1,42290.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-3093,51-3093,direct,Food cooking machine operators and tenders,31.2,31.2,-0.1,-0.3,,3.7,41590.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-3099,51-3099,direct,"Food processing workers, all other",67.4,71.1,3.7,5.5,1.9,7.4,39680.0,No formal educational credential,None,Moderate-term on-the-job training
+51-4021,51-4021,direct,"Extruding and drawing machine setters, operators, and tenders, metal and plastic",60.9,61.4,0.4,0.7,0.1,5.4,47720.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-4022,51-4022,direct,"Forging machine setters, operators, and tenders, metal and plastic",8.9,7.4,-1.5,-17.2,,0.6,49030.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-4023,51-4023,direct,"Rolling machine setters, operators, and tenders, metal and plastic",25.3,23.2,-2.1,-8.3,,1.9,50140.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-4031,51-4031,direct,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",171.0,153.1,-17.9,-10.5,0.4,13.2,46330.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-4032,51-4032,direct,"Drilling and boring machine tool setters, operators, and tenders, metal and plastic",4.7,4.2,-0.4,-9.5,,0.4,49080.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-4033,51-4033,direct,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",68.5,61.1,-7.4,-10.8,1.9,4.5,46550.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-4034,51-4034,direct,"Lathe and turning machine tool setters, operators, and tenders, metal and plastic",16.7,14.8,-1.9,-11.3,,1.4,50620.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-4035,51-4035,direct,"Milling and planing machine setters, operators, and tenders, metal and plastic",12.4,10.8,-1.6,-13.2,,1.0,52800.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-4041,51-4041,direct,Machinists,288.3,291.2,3.0,1.0,0.5,26.1,58750.0,High school diploma or equivalent,None,Long-term on-the-job training
+51-4051,51-4051,direct,Metal-refining furnace operators and tenders,16.8,16.3,-0.5,-2.9,,1.4,54430.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-4052,51-4052,direct,"Pourers and casters, metal",4.6,4.3,-0.2,-5.0,,0.4,51810.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-4061,51-4061,direct,"Model makers, metal and plastic",2.6,2.2,-0.5,-17.3,,0.2,63340.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-4062,51-4062,direct,"Patternmakers, metal and plastic",1.5,1.1,-0.3,-22.8,,0.1,58000.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-4071,51-4071,direct,Foundry mold and coremakers,12.7,9.8,-2.9,-23.0,,0.8,48110.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-4072,51-4072,direct,"Molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic",150.0,144.9,-5.2,-3.4,,13.8,44350.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-4081,51-4081,direct,"Multiple machine tool setters, operators, and tenders, metal and plastic",127.1,127.9,0.8,0.6,2.7,11.6,47180.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-4111,51-4111,direct,Tool and die makers,56.7,51.5,-5.2,-9.2,,4.3,64050.0,Postsecondary nondegree award,None,Long-term on-the-job training
+51-4121,51-4121,direct,"Welders, cutters, solderers, and brazers",437.7,448.1,10.3,2.4,4.3,40.3,53750.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-4122,51-4122,direct,"Welding, soldering, and brazing machine setters, operators, and tenders",32.9,30.0,-2.9,-8.9,4.4,2.5,47920.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-4191,51-4191,direct,"Heat treating equipment setters, operators, and tenders, metal and plastic",14.4,13.0,-1.4,-9.5,2.6,1.1,48750.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-4192,51-4192,direct,"Layout workers, metal and plastic",6.2,5.9,-0.2,-3.4,2.2,0.5,63870.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-4193,51-4193,direct,"Plating machine setters, operators, and tenders, metal and plastic",33.3,30.1,-3.2,-9.7,2.6,2.5,43960.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-4194,51-4194,direct,"Tool grinders, filers, and sharpeners",5.8,5.4,-0.4,-6.8,2.6,0.5,50060.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-4199,51-4199,direct,"Metal workers and plastic workers, all other",16.3,15.1,-1.2,-7.1,2.6,1.3,45950.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-5111,51-5111,direct,Prepress technicians and workers,24.7,20.9,-3.8,-15.3,5.1,2.1,48690.0,Postsecondary nondegree award,None,None
+51-5112,51-5112,direct,Printing press operators,144.0,131.4,-12.6,-8.7,1.5,12.1,45780.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-5113,51-5113,direct,Print binding and finishing workers,32.3,26.6,-5.6,-17.5,,2.3,42290.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-6011,51-6011,direct,Laundry and dry-cleaning workers,204.9,213.7,8.7,4.3,2.5,28.2,34890.0,No formal educational credential,None,Short-term on-the-job training
+51-6021,51-6021,direct,"Pressers, textile, garment, and related materials",26.3,22.2,-4.1,-15.7,,2.2,35060.0,No formal educational credential,None,Short-term on-the-job training
+51-6031,51-6031,direct,Sewing machine operators,117.2,99.5,-17.7,-15.1,11.3,9.8,36670.0,No formal educational credential,None,Short-term on-the-job training
+51-6041,51-6041,direct,Shoe and leather workers and repairers,10.3,9.6,-0.7,-6.5,26.4,1.0,37800.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-6042,51-6042,direct,Shoe machine operators and tenders,4.6,4.2,-0.3,-6.9,26.3,0.4,35650.0,High school diploma or equivalent,None,Short-term on-the-job training
+51-6051,51-6051,direct,"Sewers, hand",5.3,4.6,-0.6,-12.0,58.5,0.6,36480.0,No formal educational credential,None,Moderate-term on-the-job training
+51-6052,51-6052,direct,"Tailors, dressmakers, and custom sewers",33.2,30.3,-2.9,-8.8,58.4,3.7,41640.0,No formal educational credential,None,Moderate-term on-the-job training
+51-6061,51-6061,direct,Textile bleaching and dyeing machine operators and tenders,5.7,5.0,-0.7,-12.5,5.0,0.6,38180.0,High school diploma or equivalent,None,Short-term on-the-job training
+51-6062,51-6062,direct,"Textile cutting machine setters, operators, and tenders",9.4,8.2,-1.3,-13.6,5.1,0.9,38760.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-6063,51-6063,direct,"Textile knitting and weaving machine setters, operators, and tenders",13.9,12.0,-1.9,-13.7,5.0,1.3,39530.0,High school diploma or equivalent,None,Short-term on-the-job training
+51-6064,51-6064,direct,"Textile winding, twisting, and drawing out machine setters, operators, and tenders",23.5,21.0,-2.4,-10.3,5.0,2.4,38670.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-6091,51-6091,direct,"Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",13.5,13.0,-0.4,-3.3,3.5,1.1,46350.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-6092,51-6092,direct,Fabric and apparel patternmakers,3.0,2.6,-0.5,-15.0,3.6,0.2,62750.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-6093,51-6093,direct,Upholsterers,22.7,22.2,-0.5,-2.3,11.9,1.7,46340.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-6099,51-6099,direct,"Textile, apparel, and furnishings workers, all other",14.1,12.2,-1.9,-13.4,3.4,0.9,37280.0,High school diploma or equivalent,None,Short-term on-the-job training
+51-7011,51-7011,direct,Cabinetmakers and bench carpenters,81.8,79.4,-2.4,-2.9,6.4,6.9,46680.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-7021,51-7021,direct,Furniture finishers,15.9,15.3,-0.6,-3.5,9.7,1.5,44540.0,High school diploma or equivalent,None,Short-term on-the-job training
+51-7031,51-7031,direct,"Model makers, wood",0.7,0.7,0.0,-3.3,61.7,0.1,56550.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-7032,51-7032,direct,"Patternmakers, wood",0.6,0.6,0.0,-2.0,64.3,0.1,49630.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-7041,51-7041,direct,"Sawing machine setters, operators, and tenders, wood",41.2,40.8,-0.4,-1.0,1.0,4.5,42770.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-7042,51-7042,direct,"Woodworking machine setters, operators, and tenders, except sawing",60.9,59.4,-1.5,-2.5,,5.3,43380.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-7099,51-7099,direct,"Woodworkers, all other",15.4,15.1,-0.4,-2.3,64.3,1.7,44530.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-8011,51-8011,direct,Nuclear power reactor operators,5.2,4.9,-0.3,-5.9,,0.4,122890.0,High school diploma or equivalent,None,Long-term on-the-job training
+51-8012,51-8012,direct,Power distributors and dispatchers,8.6,8.7,0.1,1.2,,0.7,106730.0,High school diploma or equivalent,None,Long-term on-the-job training
+51-8013,51-8013,direct,Power plant operators,29.8,28.3,-1.5,-5.1,0.3,2.3,102040.0,High school diploma or equivalent,None,Long-term on-the-job training
+51-8021,51-8021,direct,Stationary engineers and boiler operators,31.2,32.2,1.0,3.1,,3.2,78620.0,High school diploma or equivalent,None,Long-term on-the-job training
+51-8031,51-8031,direct,Water and wastewater treatment plant and system operators,131.0,123.5,-7.5,-5.7,0.1,10.0,60020.0,High school diploma or equivalent,None,Long-term on-the-job training
+51-8091,51-8091,direct,Chemical plant and system operators,16.7,15.9,-0.9,-5.2,,1.3,78120.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-8092,51-8092,direct,Gas plant operators,18.2,17.1,-1.1,-6.0,,1.4,87820.0,High school diploma or equivalent,None,Long-term on-the-job training
+51-8093,51-8093,direct,"Petroleum pump system operators, refinery operators, and gaugers",32.9,32.3,-0.6,-1.9,,2.7,96710.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-8099,51-8099,direct,"Plant and system operators, all other",14.3,14.6,0.3,2.3,,1.2,62470.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-9011,51-9011,direct,Chemical equipment operators and tenders,140.8,145.8,5.0,3.6,,13.9,58040.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-9012,51-9012,direct,"Separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders",61.4,57.9,-3.5,-5.7,,5.2,51610.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-9021,51-9021,direct,"Crushing, grinding, and polishing machine setters, operators, and tenders",26.6,26.1,-0.4,-1.7,2.4,2.3,48540.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-9022,51-9022,direct,"Grinding and polishing workers, hand",10.8,8.7,-2.1,-19.2,2.5,0.7,42660.0,No formal educational credential,None,Moderate-term on-the-job training
+51-9023,51-9023,direct,"Mixing and blending machine setters, operators, and tenders",97.3,91.4,-5.9,-6.1,2.5,7.9,48990.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-9031,51-9031,direct,"Cutters and trimmers, hand",5.9,4.8,-1.1,-18.9,,0.5,38020.0,No formal educational credential,None,Short-term on-the-job training
+51-9032,51-9032,direct,"Cutting and slicing machine setters, operators, and tenders",45.9,45.5,-0.4,-0.9,0.6,5.4,46570.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-9041,51-9041,direct,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",58.3,59.2,0.9,1.5,,5.2,45760.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-9051,51-9051,direct,"Furnace, kiln, oven, drier, and kettle operators and tenders",14.5,14.9,0.4,2.6,1.8,1.8,48040.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-9061,51-9061,direct,"Inspectors, testers, sorters, samplers, and weighers",602.0,617.2,15.2,2.5,1.2,66.7,48570.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-9071,51-9071,direct,Jewelers and precious stone and metal workers,32.8,31.8,-1.1,-3.2,32.4,3.7,52540.0,High school diploma or equivalent,None,Long-term on-the-job training
+51-9081,51-9081,direct,Dental laboratory technicians,34.4,32.3,-2.0,-5.9,1.0,3.6,49610.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-9082,51-9082,direct,Medical appliance technicians,11.3,11.7,0.4,3.5,1.0,1.3,48030.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-9083,51-9083,direct,Ophthalmic laboratory technicians,18.6,19.0,0.4,2.2,1.0,2.2,39460.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-9111,51-9111,direct,Packaging and filling machine operators and tenders,377.7,393.3,15.6,4.1,0.2,41.4,43220.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-9123,51-9123,direct,"Painting, coating, and decorating workers",8.2,8.3,0.1,1.3,3.7,0.7,41600.0,No formal educational credential,None,Moderate-term on-the-job training
+51-9124,51-9124,direct,"Coating, painting, and spraying machine setters, operators, and tenders",164.8,168.9,4.1,2.5,3.8,15.3,48250.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-9141,51-9141,direct,Semiconductor processing technicians,31.2,33.8,2.6,8.2,,3.4,51430.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-9151,51-9151,direct,Photographic process workers and processing machine operators,5.3,5.0,-0.3,-5.6,14.7,0.6,40610.0,High school diploma or equivalent,None,Short-term on-the-job training
+51-9161,51-9161,direct,Computer numerically controlled tool operators,170.0,154.1,-15.9,-9.4,0.5,12.5,50690.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-9162,51-9162,direct,Computer numerically controlled tool programmers,28.6,30.3,1.7,5.9,0.5,2.7,68120.0,Postsecondary nondegree award,None,Moderate-term on-the-job training
+51-9191,51-9191,direct,Adhesive bonding machine operators and tenders,12.1,12.2,0.2,1.3,4.7,1.3,46460.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-9192,51-9192,direct,"Cleaning, washing, and metal pickling equipment operators and tenders",16.2,16.8,0.5,3.4,6.2,1.7,43530.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-9193,51-9193,direct,Cooling and freezing equipment operators and tenders,7.7,8.1,0.5,5.9,6.1,0.8,41330.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-9194,51-9194,direct,Etchers and engravers,8.9,8.8,-0.1,-0.7,12.7,0.8,43310.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-9195,51-9195,direct,"Molders, shapers, and casters, except metal and plastic",43.0,45.5,2.5,5.8,22.7,5.1,46170.0,High school diploma or equivalent,None,Long-term on-the-job training
+51-9196,51-9196,direct,"Paper goods machine setters, operators, and tenders",96.1,92.6,-3.5,-3.6,,9.0,50270.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-9197,51-9197,direct,Tire builders,20.3,20.5,0.2,0.8,,1.9,57390.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+51-9198,51-9198,direct,Helpers--production workers,167.4,153.6,-13.8,-8.2,1.7,20.9,39070.0,High school diploma or equivalent,None,Short-term on-the-job training
+51-9199,51-9199,direct,"Production workers, all other",275.7,277.8,2.1,0.8,6.2,27.3,40110.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+53-1041,53-1041,direct,Aircraft cargo handling supervisors,9.7,10.6,0.9,9.2,0.7,0.9,58170.0,High school diploma or equivalent,Less than 5 years,None
+53-1042,53-1047,via combined code,"First-line supervisors of transportation and material moving workers, except aircraft cargo handling supervisors",621.5,640.3,18.8,3.0,0.7,54.9,62890.0,High school diploma or equivalent,Less than 5 years,None
+53-1043,53-1047,via combined code,"First-line supervisors of transportation and material moving workers, except aircraft cargo handling supervisors",621.5,640.3,18.8,3.0,0.7,54.9,62890.0,High school diploma or equivalent,Less than 5 years,None
+53-1044,53-1047,via combined code,"First-line supervisors of transportation and material moving workers, except aircraft cargo handling supervisors",621.5,640.3,18.8,3.0,0.7,54.9,62890.0,High school diploma or equivalent,Less than 5 years,None
+53-1049,53-1047,via combined code,"First-line supervisors of transportation and material moving workers, except aircraft cargo handling supervisors",621.5,640.3,18.8,3.0,0.7,54.9,62890.0,High school diploma or equivalent,Less than 5 years,None
+53-2011,53-2011,direct,"Airline pilots, copilots, and flight engineers",104.6,113.3,8.7,8.3,,11.2,232140.0,Bachelor's degree,Less than 5 years,Moderate-term on-the-job training
+53-2012,53-2012,direct,Commercial pilots,50.4,53.0,2.6,5.2,2.0,5.2,123220.0,Postsecondary nondegree award,None,Moderate-term on-the-job training
+53-2021,53-2021,direct,Air traffic controllers,24.0,24.4,0.4,1.7,,2.1,148080.0,Associate's degree,None,Long-term on-the-job training
+53-2022,53-2022,direct,Airfield operations specialists,15.3,16.5,1.2,7.8,,1.5,56850.0,High school diploma or equivalent,None,Long-term on-the-job training
+53-2031,53-2031,direct,Flight attendants,133.7,145.5,11.8,8.8,0.4,18.5,63580.0,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+53-3011,53-3011,direct,"Ambulance drivers and attendants, except emergency medical technicians",14.3,14.1,-0.2,-1.3,11.0,1.4,35450.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+53-3031,53-3031,direct,Driver/sales workers,442.9,478.1,35.2,7.9,7.3,45.5,38770.0,High school diploma or equivalent,None,Short-term on-the-job training
+53-3032,53-3032,direct,Heavy and tractor-trailer truck drivers,2221.2,2305.0,83.8,3.8,7.3,214.5,58640.0,Postsecondary nondegree award,None,Short-term on-the-job training
+53-3033,53-3033,direct,Light truck drivers,1068.5,1136.4,67.8,6.3,7.2,107.2,44860.0,High school diploma or equivalent,None,Short-term on-the-job training
+53-3051,53-3051,direct,"Bus drivers, school",396.8,399.7,2.9,0.7,0.1,56.5,47920.0,High school diploma or equivalent,None,Short-term on-the-job training
+53-3052,53-3052,direct,"Bus drivers, transit and intercity",166.4,173.3,6.9,4.1,1.7,21.1,59050.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+53-3053,53-3053,direct,Shuttle drivers and chauffeurs,251.5,269.4,17.9,7.1,1.8,35.5,37290.0,No formal educational credential,None,Short-term on-the-job training
+53-3054,53-3054,direct,Taxi drivers,204.2,227.7,23.5,11.5,86.5,20.4,42100.0,No formal educational credential,None,Short-term on-the-job training
+53-3099,53-3099,direct,"Motor vehicle operators, all other",54.5,56.0,1.5,2.8,12.0,6.9,37180.0,No formal educational credential,None,Short-term on-the-job training
+53-4011,53-4011,direct,Locomotive engineers,27.4,27.6,0.1,0.5,,2.0,81410.0,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+53-4013,53-4013,direct,"Rail yard engineers, dinkey operators, and hostlers",3.5,3.6,0.0,0.8,,0.3,60600.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+53-4022,53-4022,direct,"Railroad brake, signal, and switch operators and locomotive firers",10.7,10.8,0.1,0.8,,0.9,68840.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+53-4031,53-4031,direct,Railroad conductors and yardmasters,38.9,39.2,0.3,0.9,,3.0,78000.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+53-4041,53-4041,direct,Subway and streetcar operators,10.5,10.9,0.4,3.7,,0.9,86380.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+53-4099,53-4099,direct,"Rail transportation workers, all other",1.1,1.2,0.1,4.4,,0.1,56360.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+53-5011,53-5011,direct,Sailors and marine oilers,33.0,34.1,1.1,3.2,0.5,3.6,51520.0,No formal educational credential,None,Moderate-term on-the-job training
+53-5021,53-5021,direct,"Captains, mates, and pilots of water vessels",41.3,42.9,1.7,4.0,8.2,3.8,92460.0,Postsecondary nondegree award,Less than 5 years,None
+53-5022,53-5022,direct,Motorboat operators,2.8,2.9,0.1,4.9,7.5,0.3,47520.0,Postsecondary nondegree award,Less than 5 years,None
+53-5031,53-5031,direct,Ship engineers,8.8,9.0,0.2,2.7,,0.9,109530.0,Postsecondary nondegree award,Less than 5 years,None
+53-6011,53-6011,direct,Bridge and lock tenders,3.1,3.1,-0.1,-2.3,,0.3,57700.0,High school diploma or equivalent,None,Short-term on-the-job training
+53-6021,53-6021,direct,Parking attendants,139.2,142.0,2.8,2.0,0.9,16.4,35150.0,No formal educational credential,None,Short-term on-the-job training
+53-6031,53-6031,direct,Automotive and watercraft service attendants,102.4,106.3,3.9,3.8,,12.9,35670.0,No formal educational credential,None,Short-term on-the-job training
+53-6032,53-6032,direct,Aircraft service attendants,31.2,32.9,1.7,5.6,,4.0,40450.0,High school diploma or equivalent,None,Short-term on-the-job training
+53-6041,53-6041,direct,Traffic technicians,8.1,8.4,0.3,4.0,,0.9,59090.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+53-6051,53-6051,direct,Transportation inspectors,25.1,25.6,0.6,2.2,0.2,2.3,92100.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+53-6061,53-6061,direct,Passenger attendants,27.2,28.9,1.6,6.0,1.6,4.3,37720.0,High school diploma or equivalent,None,Short-term on-the-job training
+53-6099,53-6099,direct,"Transportation workers, all other",13.7,14.3,0.5,4.0,,1.6,45650.0,High school diploma or equivalent,None,Short-term on-the-job training
+53-7011,53-7011,direct,Conveyor operators and tenders,29.0,28.2,-0.8,-2.6,20.6,2.2,42420.0,No formal educational credential,None,Short-term on-the-job training
+53-7021,53-7021,direct,Crane and tower operators,42.9,44.5,1.6,3.8,,3.5,68080.0,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+53-7031,53-7031,direct,Dredge operators,1.3,1.3,0.0,0.7,19.3,0.1,49640.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+53-7041,53-7041,direct,Hoist and winch operators,3.2,3.2,0.0,0.2,18.6,0.3,56450.0,No formal educational credential,None,Short-term on-the-job training
+53-7051,53-7051,direct,Industrial truck and tractor operators,765.2,776.3,11.1,1.5,0.5,64.7,46420.0,No formal educational credential,None,Short-term on-the-job training
+53-7061,53-7061,direct,Cleaners of vehicles and equipment,419.5,435.8,16.3,3.9,7.9,51.5,35830.0,No formal educational credential,None,Short-term on-the-job training
+53-7062,53-7062,direct,"Laborers and freight, stock, and material movers, hand",2940.3,2991.9,51.6,1.8,1.2,340.5,40240.0,No formal educational credential,None,Short-term on-the-job training
+53-7063,53-7063,direct,Machine feeders and offbearers,41.8,36.3,-5.5,-13.1,,4.0,41220.0,No formal educational credential,None,Short-term on-the-job training
+53-7064,53-7064,direct,"Packers and packagers, hand",555.5,528.0,-27.5,-5.0,1.1,61.8,36280.0,No formal educational credential,None,Short-term on-the-job training
+53-7065,53-7065,direct,Stockers and order fillers,2804.3,3055.0,250.7,8.9,0.0,430.7,37330.0,No formal educational credential,None,Short-term on-the-job training
+53-7071,53-7071,direct,Gas compressor and gas pumping station operators,3.5,3.6,0.1,2.1,,0.3,77320.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+53-7072,53-7072,direct,"Pump operators, except wellhead pumpers",9.8,10.2,0.4,4.3,,1.0,61770.0,High school diploma or equivalent,None,Moderate-term on-the-job training
+53-7073,53-7073,direct,Wellhead pumpers,18.4,18.0,-0.4,-2.0,,1.7,69960.0,High school diploma or equivalent,Less than 5 years,Moderate-term on-the-job training
+53-7081,53-7081,direct,Refuse and recyclable material collectors,156.4,159.6,3.2,2.1,3.8,15.5,49690.0,No formal educational credential,None,Short-term on-the-job training
+53-7121,53-7121,direct,"Tank car, truck, and ship loaders",12.8,13.2,0.4,2.8,14.8,1.3,58870.0,No formal educational credential,None,Short-term on-the-job training
+53-7199,53-7199,direct,"Material moving workers, all other",27.8,28.6,0.8,2.7,13.7,2.8,41800.0,No formal educational credential,None,Short-term on-the-job training
+55-1011,,not in BLS,,,,,,,,,,,
+55-1012,,not in BLS,,,,,,,,,,,
+55-1013,,not in BLS,,,,,,,,,,,
+55-1014,,not in BLS,,,,,,,,,,,
+55-1015,,not in BLS,,,,,,,,,,,
+55-1016,,not in BLS,,,,,,,,,,,
+55-1017,,not in BLS,,,,,,,,,,,
+55-1019,,not in BLS,,,,,,,,,,,
+55-2011,,not in BLS,,,,,,,,,,,
+55-2012,,not in BLS,,,,,,,,,,,
+55-2013,,not in BLS,,,,,,,,,,,
+55-3011,,not in BLS,,,,,,,,,,,
+55-3012,,not in BLS,,,,,,,,,,,
+55-3013,,not in BLS,,,,,,,,,,,
+55-3014,,not in BLS,,,,,,,,,,,
+55-3015,,not in BLS,,,,,,,,,,,
+55-3016,,not in BLS,,,,,,,,,,,
+55-3018,,not in BLS,,,,,,,,,,,
+55-3019,,not in BLS,,,,,,,,,,,
