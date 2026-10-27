@@ -1,0 +1,148 @@
+table,column,description,source,units,dtype
+ai_risk_v1,soc,SOC 2018 detailed occupation code,BLS SOC 2018,code,str
+ai_risk_v1,title,"SOC 2018 occupation title (BLS crosswalk, split/merge markers removed)",BLS crosswalk,text,str
+ai_risk_v1,major_group,First two digits of the SOC code,derived,code,str
+ai_risk_v1,major_group_name,SOC major group name,derived,text,str
+ai_risk_v1,dv_rating_alpha,"Eloundou alpha (E1), GPT-4 rater: share of tasks directly exposed to LLMs","Eloundou et al. (occ_level.csv), averaged over O*NET children",share 0-1,float64
+ai_risk_v1,dv_rating_beta,"Eloundou beta (E1 + 0.5 E2), GPT-4 rater: headline exposure measure",Eloundou et al.,share 0-1,float64
+ai_risk_v1,dv_rating_gamma,"Eloundou gamma (E1 + E2), GPT-4 rater: exposure including LLM-powered tools",Eloundou et al.,share 0-1,float64
+ai_risk_v1,human_rating_alpha,"Eloundou alpha, human raters",Eloundou et al.,share 0-1,float64
+ai_risk_v1,human_rating_beta,"Eloundou beta, human raters",Eloundou et al.,share 0-1,float64
+ai_risk_v1,human_rating_gamma,"Eloundou gamma, human raters",Eloundou et al.,share 0-1,float64
+ai_risk_v1,AIOE,AI Occupational Exposure; mean of 2010 parents where SOC codes merged,"Felten, Raj & Seamans (AIOE_DataAppendix.xlsx, Appendix A)",z-score,float64
+ai_risk_v1,frey_osborne_probability,Probability of computerisation; mean of 2010 parents where SOC codes merged,Frey & Osborne (2013) appendix,probability 0-1,float64
+ai_risk_v1,pct_eloundou_beta,Percentile rank of Eloundou beta (GPT-4) among the 693 v0 occupations (higher = more exposed / at risk),task7_percentile_ranks.ipynb,percentile 0-100,float64
+ai_risk_v1,pct_eloundou_beta_human,Percentile rank of Eloundou beta (human) among the 693 v0 occupations (higher = more exposed / at risk),task7_percentile_ranks.ipynb,percentile 0-100,float64
+ai_risk_v1,pct_aioe,Percentile rank of AIOE among the 693 v0 occupations (higher = more exposed / at risk),task7_percentile_ranks.ipynb,percentile 0-100,float64
+ai_risk_v1,pct_frey_osborne,Percentile rank of Frey-Osborne probability among the 693 v0 occupations (higher = more exposed / at risk),task7_percentile_ranks.ipynb,percentile 0-100,float64
+ai_risk_v1,pct_full_eloundou_beta,Percentile rank of Eloundou beta (GPT-4) among all occupations that index scores,task7_percentile_ranks.ipynb,percentile 0-100,float64
+ai_risk_v1,pct_full_eloundou_beta_human,Percentile rank of Eloundou beta (human) among all occupations that index scores,task7_percentile_ranks.ipynb,percentile 0-100,float64
+ai_risk_v1,pct_full_aioe,Percentile rank of AIOE among all occupations that index scores,task7_percentile_ranks.ipynb,percentile 0-100,float64
+ai_risk_v1,pct_full_frey_osborne,Percentile rank of Frey-Osborne probability among all occupations that index scores,task7_percentile_ranks.ipynb,percentile 0-100,float64
+ai_risk_v1,pct_spread,"Max minus min of pct_eloundou_beta, pct_aioe, pct_frey_osborne: cross-index disagreement",task7_percentile_ranks.ipynb,percentile points,float64
+ai_risk_v1,eloundou_n_onet_children,Number of O*NET occupations averaged into this SOC code,Milestone 1 Task 2,count,float64
+ai_risk_v1,eloundou_onet_codes,The O*NET-SOC codes averaged (;-separated),Milestone 1 Task 2,codes,str
+ai_risk_v1,aioe_n_2010_parents,Number of SOC 2010 codes mapped to this code for AIOE,Milestone 1 Task 3a,count,float64
+ai_risk_v1,aioe_parent_soc2010_codes,SOC 2010 codes mapped to this code for AIOE (;-separated),Milestone 1 Task 3a,codes,str
+ai_risk_v1,aioe_is_split,AIOE score copied from a 2010 code that split into several 2018 codes,Milestone 1 Task 3a,bool,bool
+ai_risk_v1,aioe_is_merge,AIOE score averaged over several 2010 codes that merged,Milestone 1 Task 3a,bool,bool
+ai_risk_v1,fo_n_2010_parents,Number of SOC 2010 codes mapped to this code for Frey-Osborne,Milestone 1 Task 3b,count,float64
+ai_risk_v1,fo_parent_soc2010_codes,SOC 2010 codes mapped to this code for Frey-Osborne (;-separated),Milestone 1 Task 3b,codes,str
+ai_risk_v1,fo_is_split,Frey-Osborne score copied from a 2010 code that split,Milestone 1 Task 3b,bool,bool
+ai_risk_v1,fo_is_merge,Frey-Osborne score averaged over 2010 codes that merged,Milestone 1 Task 3b,bool,bool
+ai_risk_v1,any_provenance_flag,True if any score was averaged or copied (see the flags above),derived,bool,bool
+ai_risk_v1,onet_abl_verbal,O*NET abilities: mean Importance rating of the elements in Verbal Abilities (1.A.1.a),O*NET 30.3 abilities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_abl_reasoning,O*NET abilities: mean Importance rating of the elements in Idea Generation and Reasoning Abilities (1.A.1.b),O*NET 30.3 abilities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_abl_quantitative,O*NET abilities: mean Importance rating of the elements in Quantitative Abilities (1.A.1.c),O*NET 30.3 abilities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_abl_memory_perception,"O*NET abilities: mean Importance rating of the elements in Memory, Perceptual, Spatial Abilities and Attentiveness (1.A.1.d-g)",O*NET 30.3 abilities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_abl_fine_manipulation,O*NET abilities: mean Importance rating of the elements in Fine Manipulative Abilities (1.A.2.a),O*NET 30.3 abilities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_abl_control_reaction,O*NET abilities: mean Importance rating of the elements in Control Movement and Reaction Time and Speed Abilities (1.A.2.b-c),O*NET 30.3 abilities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_abl_physical,"O*NET abilities: mean Importance rating of the elements in Physical Strength, Endurance, and Flexibility, Balance and Coordination (1.A.3.a-c)",O*NET 30.3 abilities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_abl_visual,O*NET abilities: mean Importance rating of the elements in Visual Abilities (1.A.4.a),O*NET 30.3 abilities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_abl_auditory_speech,O*NET abilities: mean Importance rating of the elements in Auditory and Speech Abilities (1.A.4.b),O*NET 30.3 abilities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_skl_foundational,"O*NET skills: mean Importance rating of the elements in Foundational Areas, i.e. basic content skills (2.A.1)",O*NET 30.3 essential_skills.csv + transferable_skills.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_skl_ways_of_working,"O*NET skills: mean Importance rating of the elements in Ways of Working, i.e. basic process skills (2.A.2)",O*NET 30.3 essential_skills.csv + transferable_skills.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_skl_social,O*NET skills: mean Importance rating of the elements in Social Skills (2.B.1),O*NET 30.3 essential_skills.csv + transferable_skills.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_skl_complex_problem_solving,O*NET skills: mean Importance rating of the elements in Complex Problem Solving Skills (2.B.2),O*NET 30.3 essential_skills.csv + transferable_skills.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_skl_technical,O*NET skills: mean Importance rating of the elements in Technical Skills (2.B.3),O*NET 30.3 essential_skills.csv + transferable_skills.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_skl_systems,O*NET skills: mean Importance rating of the elements in Systems Skills (2.B.4),O*NET 30.3 essential_skills.csv + transferable_skills.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_skl_resource_mgmt,O*NET skills: mean Importance rating of the elements in Resource Management Skills (2.B.5),O*NET 30.3 essential_skills.csv + transferable_skills.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_wa_get_information,O*NET work activities: mean Importance rating of the elements in Looking for and Receiving Job-Related Information (4.A.1.a),O*NET 30.3 work_activities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_wa_evaluate_information,O*NET work activities: mean Importance rating of the elements in Identifying and Evaluating Job-Relevant Information (4.A.1.b),O*NET 30.3 work_activities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_wa_data_processing,O*NET work activities: mean Importance rating of the elements in Information and Data Processing (4.A.2.a),O*NET 30.3 work_activities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_wa_reasoning_decisions,O*NET work activities: mean Importance rating of the elements in Reasoning and Decision Making (4.A.2.b),O*NET 30.3 work_activities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_wa_physical_manual,O*NET work activities: mean Importance rating of the elements in Performing Physical and Manual Work Activities (4.A.3.a),O*NET 30.3 work_activities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_wa_complex_technical,O*NET work activities: mean Importance rating of the elements in Performing Complex and Technical Activities (4.A.3.b),O*NET 30.3 work_activities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_wa_communicating,O*NET work activities: mean Importance rating of the elements in Communicating and Interacting (4.A.4.a),O*NET 30.3 work_activities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_wa_coordinating_managing,"O*NET work activities: mean Importance rating of the elements in Coordinating, Developing, Managing, and Advising (4.A.4.b)",O*NET 30.3 work_activities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_wa_administering,O*NET work activities: mean Importance rating of the elements in Administering (4.A.4.c),O*NET 30.3 work_activities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1,onet_wc_communication,O*NET work context: mean Context rating of the elements in Communication (4.C.1.a),O*NET 30.3 work_context.csv; Milestone_1 Task 9,Context scale 1-5,float64
+ai_risk_v1,onet_wc_role_responsibility,O*NET work context: mean Context rating of the elements in Role Relationships and Responsibility for Others (4.C.1.b-c),O*NET 30.3 work_context.csv; Milestone_1 Task 9,Context scale 1-5,float64
+ai_risk_v1,onet_wc_conflict,O*NET work context: mean Context rating of the elements in Conflictual Contact (4.C.1.d),O*NET 30.3 work_context.csv; Milestone_1 Task 9,Context scale 1-5,float64
+ai_risk_v1,onet_wc_work_setting,O*NET work context: mean Context rating of the elements in Work Setting (4.C.2.a),O*NET 30.3 work_context.csv; Milestone_1 Task 9,Context scale 1-5,float64
+ai_risk_v1,onet_wc_environment_hazards,O*NET work context: mean Context rating of the elements in Environmental Conditions and Job Hazards (4.C.2.b-c),O*NET 30.3 work_context.csv; Milestone_1 Task 9,Context scale 1-5,float64
+ai_risk_v1,onet_wc_body_positioning,O*NET work context: mean Context rating of the elements in Body Positioning (4.C.2.d),O*NET 30.3 work_context.csv; Milestone_1 Task 9,Context scale 1-5,float64
+ai_risk_v1,onet_wc_criticality,O*NET work context: mean Context rating of the elements in Criticality of Position (4.C.3.a),O*NET 30.3 work_context.csv; Milestone_1 Task 9,Context scale 1-5,float64
+ai_risk_v1,onet_wc_routine_vs_challenging,O*NET work context: mean Context rating of the elements in Routine versus Challenging Work (4.C.3.b),O*NET 30.3 work_context.csv; Milestone_1 Task 9,Context scale 1-5,float64
+ai_risk_v1,onet_wc_competition_pace,"O*NET work context: mean Context rating of the elements in Competition, and Pace and Scheduling (4.C.3.c-d)",O*NET 30.3 work_context.csv; Milestone_1 Task 9,Context scale 1-5,float64
+ai_risk_v1,onet_job_zone,"O*NET Job Zone (preparation the job needs), averaged over the O*NET occupations in this SOC code",O*NET 30.3 job_zones.csv; Milestone_1 Task 9,Job Zone 1-5,float64
+ai_risk_v1,onet_status,"'full features', 'job zone only' (no O*NET ratings, so the onet_ features are blank), or blank if O*NET has no occupation for this code",derived,text,str
+ai_risk_v1,bls_code,BLS National Employment Matrix code matched to this SOC code,"BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",code,str
+ai_risk_v1,bls_match,"'direct', 'via combined code' (the BLS values are a total shared with other SOC codes: keep one row per bls_code before summing or weighting), or 'not in BLS'",derived,text,str
+ai_risk_v1,bls_title,BLS occupation title for bls_code,"BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",text,str
+ai_risk_v1,bls_emp_2025,Employment in 2025,"BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",thousands of jobs,float64
+ai_risk_v1,bls_emp_2035,Projected employment in 2035,"BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",thousands of jobs,float64
+ai_risk_v1,bls_emp_change,"Projected employment change, 2025-35","BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",thousands of jobs,float64
+ai_risk_v1,bls_emp_change_pct,"Projected employment change, 2025-35","BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",percent,float64
+ai_risk_v1,bls_self_employed_pct,Share of 2025 employment that is self-employed,"BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",percent,float64
+ai_risk_v1,bls_openings_per_year,"Average yearly job openings, 2025-35","BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",thousands of openings,float64
+ai_risk_v1,bls_median_wage,"Median annual wage, 2025","BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",dollars,float64
+ai_risk_v1,bls_education,Typical education needed for entry,"BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",text,str
+ai_risk_v1,bls_experience,Work experience in a related occupation needed for entry,"BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",text,str
+ai_risk_v1,bls_training,Typical on-the-job training needed to become competent,"BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",text,str
+ai_risk_v1_all_occupations,soc,SOC 2018 detailed occupation code,BLS SOC 2018,code,str
+ai_risk_v1_all_occupations,title,"SOC 2018 occupation title (BLS crosswalk, split/merge markers removed)",BLS crosswalk,text,str
+ai_risk_v1_all_occupations,major_group,First two digits of the SOC code,derived,code,str
+ai_risk_v1_all_occupations,dv_rating_alpha,"Eloundou alpha (E1), GPT-4 rater: share of tasks directly exposed to LLMs","Eloundou et al. (occ_level.csv), averaged over O*NET children",share 0-1,float64
+ai_risk_v1_all_occupations,dv_rating_beta,"Eloundou beta (E1 + 0.5 E2), GPT-4 rater: headline exposure measure",Eloundou et al.,share 0-1,float64
+ai_risk_v1_all_occupations,dv_rating_gamma,"Eloundou gamma (E1 + E2), GPT-4 rater: exposure including LLM-powered tools",Eloundou et al.,share 0-1,float64
+ai_risk_v1_all_occupations,human_rating_alpha,"Eloundou alpha, human raters",Eloundou et al.,share 0-1,float64
+ai_risk_v1_all_occupations,human_rating_beta,"Eloundou beta, human raters",Eloundou et al.,share 0-1,float64
+ai_risk_v1_all_occupations,human_rating_gamma,"Eloundou gamma, human raters",Eloundou et al.,share 0-1,float64
+ai_risk_v1_all_occupations,AIOE,AI Occupational Exposure; mean of 2010 parents where SOC codes merged,"Felten, Raj & Seamans (AIOE_DataAppendix.xlsx, Appendix A)",z-score,float64
+ai_risk_v1_all_occupations,frey_osborne_probability,Probability of computerisation; mean of 2010 parents where SOC codes merged,Frey & Osborne (2013) appendix,probability 0-1,float64
+ai_risk_v1_all_occupations,has_eloundou,Occupation has an Eloundou score,derived,bool,bool
+ai_risk_v1_all_occupations,has_aioe,Occupation has an AIOE score,derived,bool,bool
+ai_risk_v1_all_occupations,has_frey_osborne,Occupation has a Frey-Osborne score,derived,bool,bool
+ai_risk_v1_all_occupations,n_sources,Number of indices scoring the occupation,derived,count 1-3,int64
+ai_risk_v1_all_occupations,in_v0,Occupation is in ai_risk_v0.csv (scored by all three),derived,bool,bool
+ai_risk_v1_all_occupations,reason,Why the occupation is not in v0 (or 'in_v0'),coverage_report_v0.csv,text,str
+ai_risk_v1_all_occupations,onet_abl_verbal,O*NET abilities: mean Importance rating of the elements in Verbal Abilities (1.A.1.a),O*NET 30.3 abilities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_abl_reasoning,O*NET abilities: mean Importance rating of the elements in Idea Generation and Reasoning Abilities (1.A.1.b),O*NET 30.3 abilities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_abl_quantitative,O*NET abilities: mean Importance rating of the elements in Quantitative Abilities (1.A.1.c),O*NET 30.3 abilities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_abl_memory_perception,"O*NET abilities: mean Importance rating of the elements in Memory, Perceptual, Spatial Abilities and Attentiveness (1.A.1.d-g)",O*NET 30.3 abilities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_abl_fine_manipulation,O*NET abilities: mean Importance rating of the elements in Fine Manipulative Abilities (1.A.2.a),O*NET 30.3 abilities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_abl_control_reaction,O*NET abilities: mean Importance rating of the elements in Control Movement and Reaction Time and Speed Abilities (1.A.2.b-c),O*NET 30.3 abilities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_abl_physical,"O*NET abilities: mean Importance rating of the elements in Physical Strength, Endurance, and Flexibility, Balance and Coordination (1.A.3.a-c)",O*NET 30.3 abilities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_abl_visual,O*NET abilities: mean Importance rating of the elements in Visual Abilities (1.A.4.a),O*NET 30.3 abilities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_abl_auditory_speech,O*NET abilities: mean Importance rating of the elements in Auditory and Speech Abilities (1.A.4.b),O*NET 30.3 abilities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_skl_foundational,"O*NET skills: mean Importance rating of the elements in Foundational Areas, i.e. basic content skills (2.A.1)",O*NET 30.3 essential_skills.csv + transferable_skills.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_skl_ways_of_working,"O*NET skills: mean Importance rating of the elements in Ways of Working, i.e. basic process skills (2.A.2)",O*NET 30.3 essential_skills.csv + transferable_skills.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_skl_social,O*NET skills: mean Importance rating of the elements in Social Skills (2.B.1),O*NET 30.3 essential_skills.csv + transferable_skills.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_skl_complex_problem_solving,O*NET skills: mean Importance rating of the elements in Complex Problem Solving Skills (2.B.2),O*NET 30.3 essential_skills.csv + transferable_skills.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_skl_technical,O*NET skills: mean Importance rating of the elements in Technical Skills (2.B.3),O*NET 30.3 essential_skills.csv + transferable_skills.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_skl_systems,O*NET skills: mean Importance rating of the elements in Systems Skills (2.B.4),O*NET 30.3 essential_skills.csv + transferable_skills.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_skl_resource_mgmt,O*NET skills: mean Importance rating of the elements in Resource Management Skills (2.B.5),O*NET 30.3 essential_skills.csv + transferable_skills.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_wa_get_information,O*NET work activities: mean Importance rating of the elements in Looking for and Receiving Job-Related Information (4.A.1.a),O*NET 30.3 work_activities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_wa_evaluate_information,O*NET work activities: mean Importance rating of the elements in Identifying and Evaluating Job-Relevant Information (4.A.1.b),O*NET 30.3 work_activities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_wa_data_processing,O*NET work activities: mean Importance rating of the elements in Information and Data Processing (4.A.2.a),O*NET 30.3 work_activities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_wa_reasoning_decisions,O*NET work activities: mean Importance rating of the elements in Reasoning and Decision Making (4.A.2.b),O*NET 30.3 work_activities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_wa_physical_manual,O*NET work activities: mean Importance rating of the elements in Performing Physical and Manual Work Activities (4.A.3.a),O*NET 30.3 work_activities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_wa_complex_technical,O*NET work activities: mean Importance rating of the elements in Performing Complex and Technical Activities (4.A.3.b),O*NET 30.3 work_activities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_wa_communicating,O*NET work activities: mean Importance rating of the elements in Communicating and Interacting (4.A.4.a),O*NET 30.3 work_activities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_wa_coordinating_managing,"O*NET work activities: mean Importance rating of the elements in Coordinating, Developing, Managing, and Advising (4.A.4.b)",O*NET 30.3 work_activities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_wa_administering,O*NET work activities: mean Importance rating of the elements in Administering (4.A.4.c),O*NET 30.3 work_activities.csv; Milestone_1 Task 9,Importance scale 1-5,float64
+ai_risk_v1_all_occupations,onet_wc_communication,O*NET work context: mean Context rating of the elements in Communication (4.C.1.a),O*NET 30.3 work_context.csv; Milestone_1 Task 9,Context scale 1-5,float64
+ai_risk_v1_all_occupations,onet_wc_role_responsibility,O*NET work context: mean Context rating of the elements in Role Relationships and Responsibility for Others (4.C.1.b-c),O*NET 30.3 work_context.csv; Milestone_1 Task 9,Context scale 1-5,float64
+ai_risk_v1_all_occupations,onet_wc_conflict,O*NET work context: mean Context rating of the elements in Conflictual Contact (4.C.1.d),O*NET 30.3 work_context.csv; Milestone_1 Task 9,Context scale 1-5,float64
+ai_risk_v1_all_occupations,onet_wc_work_setting,O*NET work context: mean Context rating of the elements in Work Setting (4.C.2.a),O*NET 30.3 work_context.csv; Milestone_1 Task 9,Context scale 1-5,float64
+ai_risk_v1_all_occupations,onet_wc_environment_hazards,O*NET work context: mean Context rating of the elements in Environmental Conditions and Job Hazards (4.C.2.b-c),O*NET 30.3 work_context.csv; Milestone_1 Task 9,Context scale 1-5,float64
+ai_risk_v1_all_occupations,onet_wc_body_positioning,O*NET work context: mean Context rating of the elements in Body Positioning (4.C.2.d),O*NET 30.3 work_context.csv; Milestone_1 Task 9,Context scale 1-5,float64
+ai_risk_v1_all_occupations,onet_wc_criticality,O*NET work context: mean Context rating of the elements in Criticality of Position (4.C.3.a),O*NET 30.3 work_context.csv; Milestone_1 Task 9,Context scale 1-5,float64
+ai_risk_v1_all_occupations,onet_wc_routine_vs_challenging,O*NET work context: mean Context rating of the elements in Routine versus Challenging Work (4.C.3.b),O*NET 30.3 work_context.csv; Milestone_1 Task 9,Context scale 1-5,float64
+ai_risk_v1_all_occupations,onet_wc_competition_pace,"O*NET work context: mean Context rating of the elements in Competition, and Pace and Scheduling (4.C.3.c-d)",O*NET 30.3 work_context.csv; Milestone_1 Task 9,Context scale 1-5,float64
+ai_risk_v1_all_occupations,onet_job_zone,"O*NET Job Zone (preparation the job needs), averaged over the O*NET occupations in this SOC code",O*NET 30.3 job_zones.csv; Milestone_1 Task 9,Job Zone 1-5,float64
+ai_risk_v1_all_occupations,onet_status,"'full features', 'job zone only' (no O*NET ratings, so the onet_ features are blank), or blank if O*NET has no occupation for this code",derived,text,str
+ai_risk_v1_all_occupations,bls_code,BLS National Employment Matrix code matched to this SOC code,"BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",code,str
+ai_risk_v1_all_occupations,bls_match,"'direct', 'via combined code' (the BLS values are a total shared with other SOC codes: keep one row per bls_code before summing or weighting), or 'not in BLS'",derived,text,str
+ai_risk_v1_all_occupations,bls_title,BLS occupation title for bls_code,"BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",text,str
+ai_risk_v1_all_occupations,bls_emp_2025,Employment in 2025,"BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",thousands of jobs,float64
+ai_risk_v1_all_occupations,bls_emp_2035,Projected employment in 2035,"BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",thousands of jobs,float64
+ai_risk_v1_all_occupations,bls_emp_change,"Projected employment change, 2025-35","BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",thousands of jobs,float64
+ai_risk_v1_all_occupations,bls_emp_change_pct,"Projected employment change, 2025-35","BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",percent,float64
+ai_risk_v1_all_occupations,bls_self_employed_pct,Share of 2025 employment that is self-employed,"BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",percent,float64
+ai_risk_v1_all_occupations,bls_openings_per_year,"Average yearly job openings, 2025-35","BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",thousands of openings,float64
+ai_risk_v1_all_occupations,bls_median_wage,"Median annual wage, 2025","BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",dollars,float64
+ai_risk_v1_all_occupations,bls_education,Typical education needed for entry,"BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",text,str
+ai_risk_v1_all_occupations,bls_experience,Work experience in a related occupation needed for entry,"BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",text,str
+ai_risk_v1_all_occupations,bls_training,Typical on-the-job training needed to become competent,"BLS Employment Projections 2025-35, Table 1.2 (occupation.xlsx); Milestone_1 Task 9",text,str
