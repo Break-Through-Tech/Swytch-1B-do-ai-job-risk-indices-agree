@@ -17,3 +17,34 @@ o*net should help alot
 
 
 lots of graphs in next meeting
+
+
+theres a confounding variable look for it
+
+what to be looking for to find out there's a confounding variable
+- variable is in the O*NET Dataset
+
+make sure the case studies are relevant to most people
+- school teachers
+- office workers 
+- 
+
+simon's paradox refers to two distinct concepts: statsitcal phenomenon where a trend appears in several groups of data but reverses or disappears when the groups are combined, occurs due to a confounding variable
+
+wants us to find it
+
+trade datasets and see what that does for your analyses
+
+
+what level of information is expected from our audience(CA)?
+- document the decisions, using decision log
+- keeping good documentation is a great habit to have
+- give her a lot of information for her to understand the why
+    - understand that we're pressed for time, TLDR is most important
+- good with happy medium
+    - more important things than whats on slide at the end of the day
+- good program manager is going to remember
+    - decisions made, findings assumed, your work is going to roll up to the next level
+    - how our work product is pushed out and marketed throughout the company
+
+exposure vs risk 

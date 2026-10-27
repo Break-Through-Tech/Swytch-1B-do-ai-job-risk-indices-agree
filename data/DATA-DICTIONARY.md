@@ -60,9 +60,10 @@ One row per six-digit 2018 SOC occupation that survives the merge (expected roug
 | `rank_aioe`, `rank_fo`, `rank_elo_dv`, `rank_elo_hum` | float | derived | Percentile rank of the occupation within each index (higher = more exposed). All agreement statistics run on these, not raw scores |
 | `rank_spread` | float | derived | Divergence target, for example the standard deviation of the rank columns; define once, document, keep |
 | `consensus_tier` | category | derived | High / Medium / Low exposure by mean rank, plus an agreement flag (agreed vs contested) |
-| `job_zone` | int 1-5 | O*NET | Preparation level |
-| feature aggregates (20-40 cols) | float | O*NET | Domain means, for example cognitive abilities, physical abilities, social skills, technical skills, routine-context measures; the exact grouping is a documented team decision |
-| `emp_change_pct_2024_34` | float | BLS EP Table 1.2 | Stretch: projected employment change |
+| `onet_job_zone` | float 2-5 | O*NET | Preparation level. Whole numbers except where several O*NET occupations with different Job Zones average into one SOC code (22 of 693 rows) |
+| `onet_abl_*`, `onet_skl_*`, `onet_wa_*`, `onet_wc_*` (34 cols) | float | O*NET | Means of O*NET Content Model groups (IM scale; CX for work context); grouping in `Milestone_1.ipynb` Task 9. `onet_status` = "job zone only" where no ratings exist (13 rows, features blank) |
+| `bls_emp_2025`, `bls_emp_2035`, `bls_emp_change`, `bls_emp_change_pct`, `bls_openings_per_year` | float | BLS EP Table 1.2 (2025-35 edition) | Stretch: projected employment change. Employment in thousands. Where `bls_match` = "via combined code", the values are the total for a BLS combined code shared by several SOC codes: keep one row per `bls_code` before summing or weighting |
+| `bls_median_wage`, `bls_self_employed_pct`, `bls_education`, `bls_experience`, `bls_training` | mixed | BLS EP Table 1.2 | 2025 median wage (dollars), share self-employed, and typical entry requirements |
 | provenance flags | bool | derived | Per index: whether the row came through a crosswalk split/merge |
 
 ## 4. Known limitations and quirks of the combined dataset (read before modeling)
