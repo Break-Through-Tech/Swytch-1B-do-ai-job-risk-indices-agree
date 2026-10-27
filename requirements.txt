@@ -2,3 +2,5 @@ pandas
 openpyxl
 matplotlib
 pdfplumber
+
+scikit-learn
