@@ -1,0 +1,14 @@
+How can we make evaluate the answer to see if frey-osborne contributes anything to the project? if we could drop the dataset entirely
+
+Has these datasets changed your idea of the career path you want to pursue?
+
+She saw ad: soliciting people to have their HVAC serviced by someone wearing sensors to train AI to do those tasks. Apparently HVAC isn't safe.
+
+Next Steps:
+Define target for decision model, build ONET features. we already have per occupation scores, figure out which features is valuable (narrow it down), long list of models to try out
+
+Which occupations got dropped?
+- What are consequences
+
+First customer is aerospace and advanced manufacturing jobs
+- If cost of removing frey-osbourne
